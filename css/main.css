@@ -29,4 +29,17 @@ a {
         color: blue;
 }
 
-
+.menu {
+        display: flex;
+        flex-direction: row;
+        padding: 10px;
+        align-items: center;
+        background-color: darkslategray;
+        width: 100%;
+}
+.item {
+        padding: 10px;
+}
+.item img {
+        max-height: 40px;
+}
