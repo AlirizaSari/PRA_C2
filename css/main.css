@@ -1,4 +1,32 @@
-.container {
+:root {
+        --red: #cc0000;
+        --green: #317f43;
+        --blue: #4682b4;
+        --brown: #b97d4b;
+}
+
+* {
+        font-family: Arial, Helvetica, sans-serif;
+        text-decoration: none;
+}
+
+
+.container, .contBody {
         margin: 0 auto;
         width: 960px;
 }
+
+footer .container p {
+        margin: 0;
+}
+
+.contBody {
+        padding-bottom: 300px;
+        
+}
+
+a {
+        color: blue;
+}
+
+

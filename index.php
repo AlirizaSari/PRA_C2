@@ -11,7 +11,7 @@
 <body>
         <?php include "header.php"?>
 
-        <div class="container">
+        <div class="container contBody">
                 <p id="date"></p>
         </div>
 
