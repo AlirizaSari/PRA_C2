@@ -3,6 +3,7 @@
         --green: #317f43;
         --blue: #4682b4;
         --brown: #b97d4b;
+        --headFoot: #7C7C7C;
 }
 
 * {
@@ -13,24 +14,64 @@
 }
 
 
+
+
 .container, .contBody {
         margin: 0 auto;
         width: 960px;
 }
 
+
 .contBody {
-        padding-bottom: 300px;
+        padding-bottom: 300px;       
+}
+
+/* header */
+header span {
+        margin: 0;
+}
+
+header a {
+        color: white;
+        font-weight: 600;
+        padding: 29px 6px;
+        /* background-color: #D64933; */
+}
+
+header a:hover {
+        background-color: #D64933;
+}
+
+.menu {
         
+        padding: 6px;
+        background-color: var(--headFoot);
+        width: 100%;
+}
+
+.menu .container {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+}
+
+.item {
+        padding: 10px;
+}
+.item img {
+        max-height: 40px;
 }
 
 
 /* ------------- Hier begint de footer ------------- */
 footer {
-        background-color: rgb(200, 200, 200);
+        background-color: var(--headFoot);
+        padding: 10px;
 }
 
-footer .container p {
+footer .container p, footer .container h2 {
         margin: 0;
+        color: white;
 }
 
 
@@ -38,17 +79,3 @@ a {
         color: blue;
 }
 
-.menu {
-        display: flex;
-        flex-direction: row;
-        padding: 10px;
-        align-items: center;
-        background-color: darkslategray;
-        width: 100%;
-}
-.item {
-        padding: 10px;
-}
-.item img {
-        max-height: 40px;
-}

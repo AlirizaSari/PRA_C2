@@ -12,7 +12,8 @@
         <?php include "header.php"?>
 
         <div class="container contBody">
-                <p id="date"></p>
+                <h2>Datum en tijd: </h2>
+                <p id="date"></p>                        
         </div>
 
         <?php include "footer.php"?>
