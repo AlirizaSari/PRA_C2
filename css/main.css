@@ -8,6 +8,8 @@
 * {
         font-family: Arial, Helvetica, sans-serif;
         text-decoration: none;
+        margin: 0;
+        padding: 0;
 }
 
 
@@ -16,14 +18,21 @@
         width: 960px;
 }
 
-footer .container p {
-        margin: 0;
-}
-
 .contBody {
         padding-bottom: 300px;
         
 }
+
+
+/* ------------- Hier begint de footer ------------- */
+footer {
+        background-color: rgb(200, 200, 200);
+}
+
+footer .container p {
+        margin: 0;
+}
+
 
 a {
         color: blue;
