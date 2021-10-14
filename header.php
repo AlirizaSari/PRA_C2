@@ -11,9 +11,11 @@
                         <a href="#">Songtekst 3</a>
                     </div>
                 </div>
-                <a href="">Informatie</a>
-                <a href="">Dranken</a>
-                <a href="">Acteurs</a>
+                <a id="header-link" href="">Lyrics</a>
+                <a id="header-link" href="">Films</a>
+                <a id="header-link" href="">Informatie</a>
+                <a id="header-link" href="">Dranken</a>
+                <a id="header-link" href="">Acteurs</a>
             </div>
         </div>
     </div>
