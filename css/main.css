@@ -26,40 +26,32 @@
         padding-bottom: 300px;       
 }
 
-/* header */
-header span {
+/* ------------- Hier begint de header ------------- */
+header {
         margin: 0;
+        padding: 8px 0;
+        background-color: var(--headFoot);
 }
 
-header a {
-        color: white;
-        font-weight: 600;
-        padding: 29px 6px;
-        /* background-color: #D64933; */
-}
-
-#header-link:hover {
-        background-color: #D64933;
+header img {
+        max-width: 75px;
 }
 
 .menu {
-        
-        padding: 6px;
-        background-color: var(--headFoot);
-        width: 100%;
-}
-
-.menu .container {
         display: flex;
-        flex-direction: row;
+        justify-content: space-between;
         align-items: center;
 }
 
-.item {
-        padding: 10px;
+.menu a {
+        color: white;
+        margin: 0px 4px;
+        padding: 24px 5px;
 }
-.item img {
-        max-height: 40px;
+
+.menu a:hover {
+        padding: 24px 5px;
+        background-color: red;
 }
 
 
@@ -75,7 +67,7 @@ footer .container p, footer .container h2 {
 }
 
 
-a {
+/* a {
         color: blue;
 }
-
+ */
