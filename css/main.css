@@ -42,6 +42,7 @@ header a {
 }
 
 .menu {
+        padding-top: 6px;
         padding-bottom: 6px;
         background-color: var(--headFoot);
         width: 100%;
