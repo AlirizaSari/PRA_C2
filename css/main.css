@@ -15,7 +15,6 @@
 
 
 
-
 .container, .contBody {
         margin: 0 auto;
         width: 960px;
@@ -43,8 +42,7 @@ header a {
 }
 
 .menu {
-        
-        padding: 6px;
+        padding-bottom: 6px;
         background-color: var(--headFoot);
         width: 100%;
 }
@@ -65,8 +63,11 @@ header a {
 
 /* ------------- Hier begint de footer ------------- */
 footer {
+        position: absolute;
+        bottom: 0;
+        width: 100%;
         background-color: var(--headFoot);
-        padding: 10px;
+        padding-top: 10px;
 }
 
 footer .container p, footer .container h2 {
