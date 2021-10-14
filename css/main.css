@@ -38,7 +38,7 @@ header a {
         /* background-color: #D64933; */
 }
 
-header a:hover {
+#header-link:hover {
         background-color: #D64933;
 }
 
