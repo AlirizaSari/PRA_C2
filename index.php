@@ -26,7 +26,7 @@
                 var h = n.getHours();
                 var min = n.getMinutes();
                 var sec = n.getSeconds();
-                document.getElementById("date").innerHTML = m + "/" + d + "/" + y + " " + h + ":" + min + ":" + sec;
+                document.getElementById("date").innerHTML = d + "/" + m + "/" + y + " " + h + ":" + min + ":" + sec;
         </script>
 </body>
 </html>
