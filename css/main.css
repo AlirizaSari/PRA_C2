@@ -45,18 +45,6 @@ header img {
         padding-bottom: 6px;
 }
 
-<<<<<<< Updated upstream
-#header-link{
-        color: white;
-        margin: 0px 4px;
-        padding: 24px 5px;
-}
-
-#header-link:hover {
-        padding: 30px 5px;
-        margin: 0px 4px;
-        background-color: #007cbc;
-=======
 .splitPicture a {
         color: black;
         font-family:  "Noto Sans Mono", sans-serif;
@@ -70,7 +58,6 @@ header img {
         transition-duration: 0.2s;
         padding: 15px 15px;
         background-color: var(--hoverColor);
->>>>>>> Stashed changes
 }
 
 
