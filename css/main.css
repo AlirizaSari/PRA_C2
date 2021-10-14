@@ -3,7 +3,8 @@
         --green: #317f43;
         --blue: #4682b4;
         --brown: #b97d4b;
-        --headFoot: #008DD5;
+        --headFoot: #008dd5;
+        --hoverColor: lightgray;
 }
 
 * {
@@ -28,7 +29,7 @@
 /* ------------- Hier begint de header ------------- */
 header {
         margin: 0;
-        padding: 8px 0;
+        padding: 20px 0;
         background-color: var(--headFoot);
 }
 
@@ -44,6 +45,7 @@ header img {
         padding-bottom: 6px;
 }
 
+<<<<<<< Updated upstream
 #header-link{
         color: white;
         margin: 0px 4px;
@@ -54,6 +56,21 @@ header img {
         padding: 30px 5px;
         margin: 0px 4px;
         background-color: #007cbc;
+=======
+.splitPicture a {
+        color: black;
+        font-family:  "Noto Sans Mono", sans-serif;
+        margin: 0px 10px;
+        padding: 15px 15px;
+        border-radius: 20px;
+        background-color: white;
+}
+
+.splitPicture a:hover {
+        transition-duration: 0.2s;
+        padding: 15px 15px;
+        background-color: var(--hoverColor);
+>>>>>>> Stashed changes
 }
 
 
