@@ -1,12 +1,12 @@
 <header>
     <div class="container">
         <div class="menu">
-            <img src="img/logo.png" alt="CodeCamp logo">
+            <a href="index.php"><img src="img/logo.png" alt="CodeCamp logo"></a>
             <div class="splitPicture">
-                <a href="">Songteksten</a>
-                <a href="">Informatie</a>
-                <a href="">Dranken</a>
-                <a href="">Acteurs</a>
+                <a id="header-link" href="">Songteksten</a>
+                <a id="header-link" href="">Informatie</a>
+                <a id="header-link" href="">Dranken</a>
+                <a id="header-link" href="">Acteurs</a>
             </div>
         </div>
     </div>

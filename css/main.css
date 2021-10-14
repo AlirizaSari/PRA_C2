@@ -44,13 +44,13 @@ header img {
         padding-bottom: 6px;
 }
 
-.menu a {
+#header-link{
         color: white;
         margin: 0px 4px;
         padding: 24px 5px;
 }
 
-.menu a:hover {
+#header-link:hover {
         padding: 30px 5px;
         margin: 0px 4px;
         background-color: #007cbc;
