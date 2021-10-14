@@ -68,6 +68,7 @@ footer {
         width: 100%;
         background-color: var(--headFoot);
         padding-top: 10px;
+        padding-bottom: 10px;
 }
 
 footer .container p, footer .container h2 {
