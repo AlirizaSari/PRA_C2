@@ -45,18 +45,6 @@ header img {
         padding-bottom: 6px;
 }
 
-<<<<<<< Updated upstream
-#header-link{
-        color: white;
-        margin: 0px 4px;
-        padding: 24px 5px;
-}
-
-#header-link:hover {
-        padding: 30px 5px;
-        margin: 0px 4px;
-        background-color: #007cbc;
-=======
 .splitPicture a {
         color: black;
         font-family:  "Noto Sans Mono", sans-serif;
@@ -70,8 +58,42 @@ header img {
         transition-duration: 0.2s;
         padding: 15px 15px;
         background-color: var(--hoverColor);
->>>>>>> Stashed changes
 }
+
+.dropbtn {
+        background-color: #008dd5;
+        color: white;
+        padding: 15px;
+        font-size: 15px;
+        border: none;
+}
+
+.dropdown {
+        position: relative;
+        display: inline-block;
+}
+
+.dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #f1f1f1;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+}
+
+.dropdown-content a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+}
+
+.dropdown-content a:hover {background-color: lightgray;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #008dd5;} 
 
 
 /* ------------- Hier begint de footer ------------- */
