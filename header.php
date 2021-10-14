@@ -5,7 +5,8 @@
             <div class="splitPicture">
                 <a href="">Songteksten</a>
                 <a href="">Informatie</a>
-                
+                <a href="">Dranken</a>
+                <a href="">Acteurs</a>
             </div>
         </div>
     </div>

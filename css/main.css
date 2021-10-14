@@ -3,7 +3,7 @@
         --green: #317f43;
         --blue: #4682b4;
         --brown: #b97d4b;
-        --headFoot: #7C7C7C;
+        --headFoot: #008DD5;
 }
 
 * {
@@ -44,8 +44,6 @@ header img {
         padding-bottom: 6px;
 }
 
-
-
 .menu a {
         color: white;
         margin: 0px 4px;
@@ -53,8 +51,9 @@ header img {
 }
 
 .menu a:hover {
-        padding: 24px 5px;
-        background-color: red;
+        padding: 30px 5px;
+        margin: 0px 4px;
+        background-color: #007cbc;
 }
 
 
