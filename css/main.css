@@ -15,7 +15,6 @@
 
 
 
-
 .container, .contBody {
         margin: 0 auto;
         width: 960px;
@@ -57,8 +56,12 @@ header img {
 
 /* ------------- Hier begint de footer ------------- */
 footer {
+        position: absolute;
+        bottom: 0;
+        width: 100%;
         background-color: var(--headFoot);
-        padding: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
 }
 
 footer .container p, footer .container h2 {
