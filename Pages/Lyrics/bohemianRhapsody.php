@@ -12,7 +12,7 @@
     <?php include "../../header.php"?>
 
     <div class="content">
-        <div class="container">
+        <div class="container lyrics">
             <h1>Bohemian Rhapsody</h1>
             <pre>
                 
