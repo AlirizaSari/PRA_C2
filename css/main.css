@@ -54,7 +54,6 @@ header img {
 
 .splitPicture a:hover {
         transition-duration: 0.2s;
-        padding: 15px 15px;
         background-color: var(--hoverColor);
 }
 
