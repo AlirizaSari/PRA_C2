@@ -17,9 +17,9 @@
     
             <h2>Gereedschappen</h2>
             <br>
+            <p>Hier is de lijst met geerdschappen:</p>
+            <br>
             <p>
-                
-
                 <ul>
                     <li><a href="gereedschappen/cirkelzagen.php">Cirkelzagen</a></li>
                     <li><a href="gereedschappen/kettingzagen.php">Kettingzagen</a></li>

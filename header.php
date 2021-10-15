@@ -43,7 +43,7 @@
                     </div>
                 </div>
                 <div class="dropdown">
-                    <button class="dropbtn">Acteurs</button>
+                    <button class="dropbtn">Acteurs/Personages</button>
                     <div class="dropdown-content">
                         <a href="#">Acteur 1</a>
                         <a href="#">Acteur 2</a>
