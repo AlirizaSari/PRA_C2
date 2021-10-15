@@ -32,7 +32,7 @@
                     <div class="dropdown-content">
                         <a href="<?php echo $base_url;?>/Pages/Informatie/boeken.php">Boeken</a>
                         <a href="<?php echo $base_url;?>/Pages/Informatie/gereedschap.php">Gereedschappen</a>
-                        <a href="#">Informatie 3</a>
+                  
                     </div>
                 </div>
                 <div class="dropdown">
