@@ -19,7 +19,7 @@
             <br>
             <p>Cola is een koolzuurhoudende frisdrank. Het smaakt zoet (maar is qua pH zuur) en bevat circa 28-32 mg cafeïne per 33 cl.[1] Andere belangrijke ingrediënten zijn vanille, kaneel, karamel en citroen. Anders dan de meeste frisdranken bevat het geen citroenzuur, maar fosforzuur. Dieetcola bevat zowel fosforzuur als citroenzuur. Er bestaan naast suikervrije ook cafeïnevrije colavarianten.</p>
 
-
+            <div class="isVerwijzing"><a href="<?php echo $base_url;?>/Pages/Films/rogerMoore.php">Roger Moore</a></div>
         </div>
     </div>
 

@@ -68,8 +68,9 @@
         padding-bottom: 400px;
 }
 
-
-
+.isVerwijzing {
+        padding-top: 10px;
+}
 
 /* ------------- Hier begint de header ------------- */
 header {
