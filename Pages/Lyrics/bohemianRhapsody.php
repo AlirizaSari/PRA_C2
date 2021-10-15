@@ -14,7 +14,7 @@
     <div class="content bohemBlue">
         <div class="container">
     
-            <h1>Bohemian Rhapsody</h1>
+            <h1>Bohemian Rhapsody - Queen</h1>
             <pre>
                 
     [Intro]

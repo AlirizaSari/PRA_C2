@@ -9,7 +9,7 @@
                     <div class="dropdown-content">
                         <a href="<?php echo $base_url; ?>/Pages/Lyrics/bohemianRhapsody.php">Bohemian Rhapsody</a>
                         <a href="<?php echo $base_url; ?>/Pages/Lyrics/KillerQueen.php">Killer Queen</a>
-                        <a href="#">Songtekst 3</a>
+                        <a href="<?php echo $base_url;?>/Pages/Lyrics/madness.php">Madness</a>
                     </div>
                 </div>
                 <div class="dropdown">

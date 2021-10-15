@@ -14,7 +14,7 @@
     <div class="content bohemBlue">
         <div class="container">
     
-            <h1>Killer Queen</h1>
+            <h1>Killer Queen - Queen</h1>
             <pre>
                 
             [Verse 1]
