@@ -98,7 +98,7 @@ header img {
 
 /* ------------- Hier begint de footer ------------- */
 footer {
-        position: absolute;
+        /* position: absolute; */
         bottom: 0;
         width: 100%;
         background-color: var(--headFoot);
