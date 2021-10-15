@@ -17,7 +17,7 @@
     
             <h2>Gereedschappen</h2>
             <br>
-            <p>Hier is de lijst met geerdschappen:</p>
+            <p>Hier is de lijst met gereedschappen:</p>
             <br>
             <p>
                 <ul>
