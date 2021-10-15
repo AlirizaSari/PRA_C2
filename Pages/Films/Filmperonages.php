@@ -15,15 +15,13 @@
     <div class="content padding">
         <div class="container">
     
-            <h2>Films</h2>
+            <h2>Filmpersonages</h2>
             <br>
+            <p>Hier is een lijst met filmpersonages:</p>
             <p>
-                
-
                 <ul>
-                    <li><a href="films/darthVader.php">Darth Vader</a></li>
-                    <li><a href="gereedschappen/timothyDalton.php">Timothy Dalton</a></li>
-                    <li><a href="gereedschappen/lukeSkywalker.php">Luke Skywalker</a></li>
+                    <li><a href="Films/Filmpersonages/darthVader.php">Darth Vader</a></li>
+                    <li><a href="Films/Filmpersonages/lukeSkywalker.php">Luke Skywalker</a></li>
                 </ul>
             </p>
 
