@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../../css/main.css">
     <link rel="shortcut icon" href="../../img/logo.ico">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans+Mono">
     <title>Homepagina</title>
 </head>
 <body>
@@ -17,7 +18,7 @@
             <h1>Uprising - MyBaby</h1>
             <pre>
                 
-            Allow me in your tub
+Allow me in your tub
 Allow me in your club
 Allow me to drink from your cup
 I'll be coming back for more
