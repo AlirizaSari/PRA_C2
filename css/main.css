@@ -21,6 +21,10 @@
         width: 960px;
 }
 
+.lyrics {
+        margin-bottom: 100px;
+}
+
 
 .contBody {
         padding-bottom: 300px;       
@@ -115,7 +119,7 @@ header img {
 
 /* ------------- Hier begint de footer ------------- */
 footer {
-        /* position: absolute; */
+        position: fixed;
         bottom: 0;
         width: 100%;
         background-color: var(--headFoot);
