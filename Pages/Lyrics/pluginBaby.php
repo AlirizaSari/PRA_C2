@@ -18,7 +18,7 @@
             <h1>Plug in Baby - Muse</h1>
             <pre>
                 
-            I've exposed your lies
+I've exposed your lies
 Baby
 The underneath's no big surprise
 Now it's time for changing

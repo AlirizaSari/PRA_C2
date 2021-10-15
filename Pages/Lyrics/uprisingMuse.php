@@ -18,7 +18,7 @@
             <h1>Uprising - Muse</h1>
             <pre>
                 
-            [Verse 1]
+[Verse 1]
 Paranoia is in bloom
 The PR transmissions will resume
 They'll try to push drugs that keep us all dumbed down
