@@ -10,7 +10,7 @@
     <title>Homepagina</title>
 </head>
 <body>
-    <?php include "../../../header.php"?>
+    <?php include "../../header.php"?>
 
     <div class="content padding">
         <div class="container">
@@ -21,9 +21,9 @@
             <br>
             <p>
                 <ul>
-                    <li><a href="koffie.php">Koffie</a></li>
-                    <li><a href="latte.php">Latte</a></li>
-                    <li><a href="thee.php">Thee</a></li>
+                    <li><a href="Warme_Dranken/koffie.php">Koffie</a></li>
+                    <li><a href="Warme_Dranken/latte.php">Latte</a></li>
+                    <li><a href="Warme_Dranken/thee.php">Thee</a></li>
                 </ul>
             </p>
 
@@ -33,6 +33,6 @@
 
 
 
-    <?php include "../../../footer.php"?>
+    <?php include "../../footer.php"?>
 </body>
 </html>

@@ -38,8 +38,8 @@
                 <div class="dropdown">
                     <button class="dropbtn">Dranken</button>
                     <div class="dropdown-content">
-                        <a href="<?php echo $base_url;?>/Pages/Dranken/Frisdrank/Frisdrank.php">Frisdranken</a>
-                        <a href="<?php echo $base_url;?>/Pages/Dranken/Warme_Dranken/Warme_Dranken.php">Warme dranken</a>
+                        <a href="<?php echo $base_url;?>/Pages/Dranken/Frisdrank.php">Frisdranken</a>
+                        <a href="<?php echo $base_url;?>/Pages/Dranken/Warme_Dranken.php">Warme dranken</a>
                     </div>
                 </div>
                 <div class="dropdown">

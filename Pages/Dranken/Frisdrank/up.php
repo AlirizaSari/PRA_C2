@@ -23,9 +23,17 @@
 1961: De Coca-Cola Company introduceert Sprite om de concurrentie aan te gaan met 7UP.
 1970: 7UP introduceert zijn eerste light variant onder de naam: Sugar-Free 7UP.
 1987: Cherry 7UP and Diet Cherry 7UP maken hun debuut in de markt.</p>
+
+            <button class="btnBack2" onclick="goBack()">Ga Terug</button>
+
         </div>
     </div>
 
+    <script>
+        function goBack() {
+            window.history.back();
+        }
+    </script>
 
 
     <?php include "../../../footer.php"?>

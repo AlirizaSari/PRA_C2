@@ -22,10 +22,17 @@
 In veel Noord-Europese landen wordt het wel aangeduid als café au lait, die eveneens aan het eind van de 20e eeuw zou zijn ontstaan., in Frankrijk als grand crème en in Duitsland als Milchkaffee.
 
 Sommige barista's verstaan de kunst om de melk zodanig aan de koffie toe te voegen dat er ware kunstwerkjes ontstaan. Deze techniek wordt latte art genoemd.</p>
+
+            <button class="btnBack2" onclick="goBack()">Ga Terug</button>
+
         </div>
     </div>
 
-
+    <script>
+        function goBack() {
+            window.history.back();
+        }
+    </script>
 
     <?php include "../../../footer.php"?>
 </body>
