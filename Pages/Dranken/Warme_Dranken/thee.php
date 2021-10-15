@@ -15,19 +15,11 @@
     <div class="content padding">
         <div class="container">
     
-            <h2>Warme dranken</h2>
+            <h2>Thee</h2>
             <br>
-            <p>Hier een lijst met warme dranken:</p>
-            <br>
-            <p>
-                <ul>
-                    <li><a href="koffie.php">Koffie</a></li>
-                    <li><a href="latte.php">Latte</a></li>
-                    <li><a href="thee.php">Thee</a></li>
-                </ul>
-            </p>
+            <p>Thee is een warme drank die wordt gemaakt door infusie van de gedroogde bladeren van de theeplant Camellia sinensis. Alle als thee verkochte producten die niet van deze plant afkomstig zijn (bijvoorbeeld kamillethee of rooibos), zijn dan ook geen echte thee maar kruidenthee.
 
-
+De naam thee komt waarschijnlijk uit het Chinese dialect Minnanyu.</p>
         </div>
     </div>
 

@@ -15,7 +15,7 @@
     <div class="content padding">
         <div class="container">
     
-            <h2>Frisranken</h2>
+            <h2>Frisdranken</h2>
             <br>
             <p>Hier een lijst met frisdranken:</p>
             <br>
