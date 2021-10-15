@@ -21,11 +21,11 @@
             <br>
             <p>
                 <ul>
-                    <li><a href="gereedschappen/cirkelzagen.php">Cirkelzagen</a></li>
-                    <li><a href="gereedschappen/kettingzagen.php">Kettingzagen</a></li>
+                    <li><a href="gereedschappen/zagen/zagen.php">Zagen</a></li>
+                   
                     <li><a href="gereedschappen/hamers.php">Hamers</a></li>
                     <li><a href="gereedschappen/schroevendraaiers.php">Schroevendraaiers</a></li>
-                    <li><a href="gereedschappen/handzagen.php">Handzagen</a></li>
+                    
                 </ul>
             </p>
 
