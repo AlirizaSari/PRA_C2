@@ -30,6 +30,10 @@
         padding-bottom: 300px;       
 }
 
+.content {
+        padding-top: 30px;
+}
+
 /* ------------- Hier begint de header ------------- */
 header {
         margin: 0;
