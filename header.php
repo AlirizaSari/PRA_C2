@@ -42,11 +42,9 @@
                     </div>
                 </div>
                 <div class="dropdown">
-                    <button class="dropbtn">Acteurs/Personages</button>
+                    <button class="dropbtn">Links</button>
                     <div class="dropdown-content">
-                        <a href="#">Acteur 1</a>
-                        <a href="#">Acteur 2</a>
-                        <a href="#">Acteur 3</a>
+                    <a href="<?php echo $base_url;?>/Pages/links.php">Films</a>
                     </div> 
                 </div>
             </div>
