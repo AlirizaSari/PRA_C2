@@ -10,7 +10,7 @@
     <title>Homepagina</title>
 </head>
 <body>
-    <?php include "../../../header.php"?>
+    <?php include "../../header.php"?>
 
     <div class="content padding">
         <div class="container">
@@ -24,6 +24,6 @@
 
 
 
-    <?php include "../../../footer.php"?>
+    <?php include "../../footer.php"?>
 </body>
 </html>
