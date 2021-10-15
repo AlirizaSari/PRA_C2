@@ -29,7 +29,6 @@
                     <button class="dropbtn">Informatie</button>
                     <div class="dropdown-content">
                         <a href="<?php echo $base_url;?>/Pages/Informatie/boeken.php">Boeken</a>
-                        <a href="<?php echo $base_url;?>/Pages/Informatie/rogerMoore.php">Roger Moore</a>
                         <a href="<?php echo $base_url;?>/Pages/Informatie/gereedschap.php">Gereedschappen</a>
                         <a href="<?php echo $base_url;?>/Pages/Informatie/films.php">Films</a>
                         <a href="#">Informatie 3</a>
