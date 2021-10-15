@@ -17,7 +17,7 @@
             <h1>We are the champions - Queen</h1>
             <pre>
                 
-            [Verse 1]
+[Verse 1]
 I've paid my dues
 Time after time
 I've done my sentence

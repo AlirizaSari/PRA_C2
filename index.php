@@ -29,7 +29,7 @@
                 function display_ct() {
                         var x = new Date()
                         var x1=x.getDate() + 1+ "/" + x.getMonth() + "/" + x.getFullYear(); 
-                        x1 = x1 + " - " +  x.getHours( )+ ":" +  x.getMinutes() + ":" +  x.getSeconds();
+                        x1 = x1 + " - " +  x.getHours()+ ":" +  x.getMinutes() + ":" +  x.getSeconds();
                         document.getElementById('date').innerHTML = x1;
                         display_c();
                 }
