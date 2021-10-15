@@ -60,6 +60,10 @@
         background-color: var(--yellow);
 }
 
+.green {
+        background-color: var(--green);
+}
+
 .padding {
         padding-bottom: 400px;
 }
