@@ -4,12 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../../../css/main.css">
-    <link rel="shortcut icon" href="../../../img/logo.ico">
+    <link rel="stylesheet" href="../../../../css/main.css">
+    <link rel="shortcut icon" href="../../../../img/logo.ico">
     <title>Homepagina</title>
 </head>
 <body>
-    <?php include "../../../header.php"?>
+    <?php include "../../../../header.php"?>
 
     <div class="content padding">
         <div class="container">
@@ -34,6 +34,6 @@ Cirkelzaagbladen bestaan in soorten en maten, met allerlei verschillende vertand
     </script>
 
 
-    <?php include "../../../footer.php"?>
+    <?php include "../../../../footer.php"?>
 </body>
 </html>
