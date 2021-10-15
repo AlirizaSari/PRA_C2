@@ -31,7 +31,7 @@
                         <a href="<?php echo $base_url;?>/Pages/Informatie/boeken.php">Boeken</a>
                         <a href="<?php echo $base_url;?>/Pages/Informatie/rogerMoore.php">Roger Moore</a>
                         <a href="<?php echo $base_url;?>/Pages/Informatie/gereedschap.php">Gereedschappen</a>
-                        <a href="#">Informatie 2</a>
+                        <a href="<?php echo $base_url;?>/Pages/Informatie/films.php">Films</a>
                         <a href="#">Informatie 3</a>
                     </div>
                 </div>

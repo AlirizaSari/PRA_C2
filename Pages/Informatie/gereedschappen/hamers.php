@@ -15,6 +15,7 @@
         <div class="container">
     
             <h2>Hamers</h2>
+            <br>
             <p>
             Een hamer is een klop- of slagwerktuig. Een hamer bestaat uit een steel, het handvat, met aan het eind de zogenaamde hamerkop.
 
