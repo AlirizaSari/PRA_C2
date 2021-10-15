@@ -54,7 +54,6 @@ header img {
 
 .splitPicture a:hover {
         transition-duration: 0.2s;
-        padding: 15px 15px;
         background-color: var(--hoverColor);
 }
 
@@ -104,7 +103,7 @@ header img {
 
 /* ------------- Hier begint de footer ------------- */
 footer {
-        position: absolute;
+        /* position: absolute; */
         bottom: 0;
         width: 100%;
         background-color: var(--headFoot);

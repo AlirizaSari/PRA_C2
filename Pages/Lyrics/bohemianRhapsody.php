@@ -14,7 +14,7 @@
     <div class="content">
         <div class="container">
             <h1>Bohemian Rhapsody</h1>
-            <p>
+            <pre>
                 
     [Intro]
 Is this the real life? Is this just fantasy?
@@ -75,7 +75,7 @@ Nothing really matters
 Nothing really matters to me
 Any way the wind blows
 
-            </p>
+            </pre>
         </div>
     </div>
 

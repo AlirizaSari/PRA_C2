@@ -2,12 +2,12 @@
 <header>
     <div class="container">
         <div class="menu">
-            <a href="<?php echo $base_url; ?>"><img src="<?php echo $base_url; ?>/img/logo.png" alt="CodeCamp logo"></a>
+            <a href="<?php echo $base_url;?>/index.php"><img src="<?php echo $base_url; ?>/img/logo.png" alt="CodeCamp logo"></a>
             <div class="splitPicture">
                 <div class="dropdown">
                     <button class="dropbtn">lyrics</button>
                     <div class="dropdown-content">
-                        <a href="#">Songtekst 1</a>
+                        <a href="<?php echo $base_url; ?>/Pages/Lyrics/bohemianRhapsody.php">bohemian Rhapsody</a>
                         <a href="#">Songtekst 2</a>
                         <a href="#">Songtekst 3</a>
                     </div>
