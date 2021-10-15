@@ -5,6 +5,7 @@
         --brown: #b97d4b;
         --headFoot: #008dd5;
         --hoverColor: lightgray;
+        --yellow: yellow;
 }
 
 * {
@@ -38,6 +39,32 @@
 .content {
         padding-top: 30px;
 }
+
+.pushUp {
+        margin-top: 30px;
+}
+
+.bohemBlue {
+        background-color: var(--blue);
+}
+
+.madnessRed {
+        background-color: var(--red);
+}
+
+.orange {
+        background-color: var(--brown);
+}
+
+.yellow {
+        background-color: var(--yellow);
+}
+
+.padding {
+        padding-bottom: 400px;
+}
+
+
 
 
 /* ------------- Hier begint de header ------------- */
@@ -114,25 +141,6 @@ header img {
 
 .dropdown:hover .dropbtn {background-color: lightgray;}
 
-.pushUp {
-        margin-top: 30px;
-}
-
-.bohemBlue {
-        background-color: var(--blue);
-}
-
-.madnessRed {
-        background-color: var(--red);
-}
-
-.orange {
-        background-color: var(--brown);
-}
-
-.padding {
-        padding-bottom: 400px;
-}
 
 
 /* ------------- Hier begint de footer ------------- */
