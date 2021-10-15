@@ -16,7 +16,13 @@
     
             <h2>gereedschappen</h2>
             <p>
-                Vul hier later aan: gereedschappen
+                
+
+                <ul>
+                    <li><a href="gereedschappen/cirkelzagen.php">Cirkelzagen</a></li>
+                    <li><a href="">Kettingzagen</a></li>
+                    <li><a href="">Hamers</a></li>
+                </ul>
             </p>
 
 
