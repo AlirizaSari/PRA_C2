@@ -72,6 +72,31 @@
         padding-top: 10px;
 }
 
+.btnBack {
+        border-radius: 8px;
+        background-color: white;
+        color: black;
+        border: none;
+        padding: 10px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-weight: bold;
+}
+
+.btnBack2 {
+        border-radius: 8px;
+        background-color: #008dd5;
+        color: white;
+        border: none;
+        padding: 10px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-weight: bold;
+}
+
+
 /* ------------- Hier begint de header ------------- */
 header {
         margin: 0;
