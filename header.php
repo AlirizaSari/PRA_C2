@@ -10,6 +10,9 @@
                         <a href="<?php echo $base_url; ?>/Pages/Lyrics/bohemianRhapsody.php">Bohemian Rhapsody</a>
                         <a href="<?php echo $base_url; ?>/Pages/Lyrics/KillerQueen.php">Killer Queen</a>
                         <a href="<?php echo $base_url;?>/Pages/Lyrics/madness.php">Madness</a>
+                        <a href="<?php echo $base_url;?>/Pages/Lyrics/uprising.php">Uprising</a>
+                        <a href="<?php echo $base_url;?>/Pages/Lyrics/uprisingMuse.php">Uprising Muse</a>
+                        <a href="<?php echo $base_url;?>/Pages/Lyrics/pluginBaby.php">Plug in Baby</a>
                     </div>
                 </div>
                 <div class="dropdown">

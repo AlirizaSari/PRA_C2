@@ -109,11 +109,15 @@ header img {
 }
 
 .bohemBlue {
-        background-color: lightblue;
+        background-color: var(--blue);
 }
 
 .madnessRed {
-        background-color: rgb(252, 103, 103);
+        background-color: var(--red);
+}
+
+.orange {
+        background-color: orange;
 }
 
 
