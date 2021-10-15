@@ -13,6 +13,8 @@
                         <a href="<?php echo $base_url;?>/Pages/Lyrics/uprising.php">Uprising</a>
                         <a href="<?php echo $base_url;?>/Pages/Lyrics/uprisingMuse.php">Uprising Muse</a>
                         <a href="<?php echo $base_url;?>/Pages/Lyrics/pluginBaby.php">Plug in Baby</a>
+                        <a href="<?php echo $base_url;?>/Pages/Lyrics/Transylvania.php">Transylvania</a>
+                        <a href="<?php echo $base_url;?>/Pages/Lyrics/Champions.php">We are the Champions</a>
                     </div>
                 </div>
                 <div class="dropdown">

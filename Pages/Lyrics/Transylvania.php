@@ -11,13 +11,14 @@
 <body>
     <?php include "../../header.php"?>
 
-    <div class="content orange">
+    <div class="content madnessRed padding">
         <div class="container">
     
             <h1>Transylvania - Iron Maiden</h1>
 
-            <iframe width="675" height="506" src="https://www.youtube.com/embed/GY0RZriJ3gk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+            <iframe width="320" height="180" src="https://www.youtube.com/embed/GY0RZriJ3gk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
             </iframe>
+
 
         </div>
     </div>
