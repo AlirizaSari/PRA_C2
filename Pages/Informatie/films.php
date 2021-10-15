@@ -16,17 +16,18 @@
         <div class="container">
     
             <h2>Acteurs</h2>
-
+            <br>
                 <ul>
                     <li><a href="Films/rogerMoore.php">Roger Moore</a></li>
+                    <li><a href="Films/timothyDalton.php">Timothy Dalton</a></li>
                 </ul>
             <br>
-            <p>
-                
 
+            <h2>Personages</h2>
+            <br>
+            <p>
                 <ul>
                     <li><a href="Films/darthVader.php">Darth Vader</a></li>
-                    <li><a href="Films/timothyDalton.php">Timothy Dalton</a></li>
                     <li><a href="Films/lukeSkywalker.php">Luke Skywalker</a></li>
                 </ul>
             </p>
