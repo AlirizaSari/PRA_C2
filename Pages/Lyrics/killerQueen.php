@@ -18,7 +18,7 @@
             <h1>Killer Queen - Queen</h1>
             <pre>
                 
-            [Verse 1]
+[Verse 1]
 She keeps Moët et Chandon
 In her pretty cabinet
 "Let them eat cake," she says

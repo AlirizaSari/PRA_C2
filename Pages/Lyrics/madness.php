@@ -17,7 +17,7 @@
             <h1>Madness - Muse</h1>
             <pre>
                 
-            [Refrain]
+[Refrain]
 Ma-ma-ma-ma-ma-ma-ma-ma mad mad mad
 Ma-ma-ma-ma-ma-ma-ma-ma mad mad mad
 Ma-ma-ma-ma-ma-ma-ma-ma mad mad mad

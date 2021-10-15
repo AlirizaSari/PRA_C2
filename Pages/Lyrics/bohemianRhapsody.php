@@ -18,7 +18,7 @@
             <h1>Bohemian Rhapsody - Queen</h1>
             <pre>
                 
-    [Intro]
+[Intro]
 Is this the real life? Is this just fantasy?
 Caught in a landslide, no escape from reality
 Open your eyes, look up to the skies and see
