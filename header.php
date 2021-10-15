@@ -7,11 +7,7 @@
                 <div class="dropdown">
                     <button class="dropbtn">lyrics</button>
                     <div class="dropdown-content">
-<<<<<<< Updated upstream
-                        <a href="Lyrics/bohemianRhapsody.php">Songtekst 1</a>
-=======
                         <a href="#">Songtekst 1</a>
->>>>>>> Stashed changes
                         <a href="#">Songtekst 2</a>
                         <a href="#">Songtekst 3</a>
                     </div>
