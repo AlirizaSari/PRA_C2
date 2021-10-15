@@ -15,22 +15,13 @@
     <div class="content padding">
         <div class="container">
     
-            <h2>Gereedschappen</h2>
-            <br>
-            <p>Hier is de lijst met gereedschappen:</p>
-            <br>
+            <h2>George Clooney</h2>
+            <p><br></p>
             <p>
-                <ul>
-                    <li><a href="gereedschappen/cirkelzagen.php">Cirkelzagen</a></li>
-                    <li><a href="gereedschappen/kettingzagen.php">Kettingzagen</a></li>
-                    <li><a href="gereedschappen/hamers.php">Hamers</a></li>
-                    <li><a href="gereedschappen/schroevendraaiers.php">Schroevendraaiers</a></li>
-                    <li><a href="gereedschappen/handzagen.php">Handzagen</a></li>
-                </ul>
+            George Timothy Clooney (Lexington, Kentucky, 6 mei 1961) is een Amerikaans acteur, regisseur, scenarioschrijver en producent met meer dan dertig filmprijzen en nominaties op zijn naam. Voor de film Syriana won hij een Oscar voor beste mannelijke bijrol. Tevens won hij als producent een Oscar voor beste film voor Argo. Ook kreeg hij Oscarnominaties voor zijn rollen in Michael Clayton en The Descendants, een European Film Award (voor Good Night, and Good Luck) en meerdere Golden Globes (voor Syriana en O Brother, Where Art Thou?).
             </p>
 
-
-        </div>
+            <a href="Koffie"></a>
     </div>
 
 
