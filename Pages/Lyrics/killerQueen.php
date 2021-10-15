@@ -13,7 +13,7 @@
     <?php include "../../header.php"?>
 
     <div class="content bohemBlue">
-        <div class="container">
+        <div class="container lyrics">
     
             <h1>Killer Queen - Queen</h1>
             <pre>
