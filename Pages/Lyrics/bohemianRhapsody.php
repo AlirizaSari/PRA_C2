@@ -11,8 +11,9 @@
 <body>
     <?php include "../../header.php"?>
 
-    <div class="content">
+    <div class="content bohemBlue">
         <div class="container lyrics">
+    
             <h1>Bohemian Rhapsody</h1>
             <pre>
                 

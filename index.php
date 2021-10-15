@@ -12,7 +12,7 @@
 <body>
         <?php include "header.php"?>
 
-        <div class="container contBody">
+        <div class="container contBody pushUp">
                 <h2>Datum en tijd: </h2>
                 <p id="date"></p>                        
         </div>
