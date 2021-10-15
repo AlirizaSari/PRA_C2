@@ -20,9 +20,8 @@
                 <div class="dropdown">
                     <button class="dropbtn">Films</button>
                     <div class="dropdown-content">
-                        <a href="#">Film 1</a>
-                        <a href="#">Film 2</a>
-                        <a href="#">Film 3</a>
+                        <a href="<?php echo $base_url;?>/Pages/Films/rogerMoore.php">James Bond</a>
+                        <a href="<?php echo $base_url;?>/Pages/Films/films.php">Filmpersonages</a>
                     </div>
                 </div>
                 <div class="dropdown">
@@ -30,8 +29,7 @@
                     <div class="dropdown-content">
                         <a href="<?php echo $base_url;?>/Pages/Informatie/boeken.php">Boeken</a>
                         <a href="<?php echo $base_url;?>/Pages/Informatie/gereedschap.php">Gereedschappen</a>
-                        <a href="<?php echo $base_url;?>/Pages/Informatie/films.php">Films</a>
-                        <a href="#">Informatie 3</a>
+
                     </div>
                 </div>
                 <div class="dropdown">

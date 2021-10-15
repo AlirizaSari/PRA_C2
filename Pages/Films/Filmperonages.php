@@ -15,20 +15,13 @@
     <div class="content padding">
         <div class="container">
     
-            <h2>Acteurs</h2>
+            <h2>Filmpersonages</h2>
             <br>
-                <ul>
-                    <li><a href="Films/rogerMoore.php">Roger Moore</a></li>
-                    <li><a href="Films/timothyDalton.php">Timothy Dalton</a></li>
-                </ul>
-            <br>
-
-            <h2>Personages</h2>
-            <br>
+            <p>Hier is een lijst met filmpersonages:</p>
             <p>
                 <ul>
-                    <li><a href="Films/darthVader.php">Darth Vader</a></li>
-                    <li><a href="Films/lukeSkywalker.php">Luke Skywalker</a></li>
+                    <li><a href="Films/Filmpersonages/darthVader.php">Darth Vader</a></li>
+                    <li><a href="Films/Filmpersonages/lukeSkywalker.php">Luke Skywalker</a></li>
                 </ul>
             </p>
 
