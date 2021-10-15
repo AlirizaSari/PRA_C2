@@ -15,14 +15,15 @@
     <div class="content padding">
         <div class="container">
     
-            <h2>gereedschappen</h2>
+            <h2>Gereedschappen</h2>
+            <br>
             <p>
                 
 
                 <ul>
                     <li><a href="gereedschappen/cirkelzagen.php">Cirkelzagen</a></li>
-                    <li><a href="">Kettingzagen</a></li>
-                    <li><a href="">Hamers</a></li>
+                    <li><a href="gereedschappen/kettingzagen.php">Kettingzagen</a></li>
+                    <li><a href="gereedschappen/hamers.php">Hamers</a></li>
                 </ul>
             </p>
 
