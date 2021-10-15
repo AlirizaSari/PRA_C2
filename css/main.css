@@ -21,6 +21,11 @@
         width: 960px;
 }
 
+.container a {
+        text-decoration: none;
+        color: blue;
+}
+
 .lyrics {
         margin-bottom: 100px;
 }
@@ -33,6 +38,7 @@
 .content {
         padding-top: 30px;
 }
+
 
 /* ------------- Hier begint de header ------------- */
 header {
