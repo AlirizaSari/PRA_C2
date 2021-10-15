@@ -22,10 +22,16 @@
 De vorm en grootte en het materiaal van de hamerkop en de lengte van de steel hangen sterk af van het type hamer. Bij hamers met een ijzeren hamerkop staat vaak het aantal grammen in het metaal geslagen. Voor speciale uitvoeringen, zoals voor percussie-instrumenten, wordt ook de term mallet (uit het Engels) gebruikt.
             </p>
 
+            <button class="btnBack2" onclick="goBack()">Ga Terug</button>
 
         </div>
     </div>
 
+    <script>
+        function goBack() {
+            window.history.back();
+        }
+    </script>
 
 
     <?php include "../../../footer.php"?>

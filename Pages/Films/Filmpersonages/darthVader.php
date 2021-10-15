@@ -20,8 +20,17 @@
             <p>Darth Vader is een personage uit de Star Wars-films. Hij is als Sith-leerling ondergeschikt aan keizer Palpatine, ook bekend als Darth Sidious.
 
 In de jaren 1977, 1980 en 1983 werd Darth Vader gespeeld door acteur David Prowse en stuntman Bob Anderson. Zijn stem werd echter ingesproken door James Earl Jones, omdat diens stem veel zwaarder, duisterder en dreigender klonk.Darth Vader is een dienaar van de kwaadaardige keizer Palpatine (Darth Sidious) en een wreed persoon. Hij is vooral te herkennen aan zijn donkere kostuum, zijn zware stem, en zijn enorme omvang. Hij wordt zowel gevreesd door de Rebellen, als door zijn eigen troepen.</p>
+
+            
+            <button class="btnBack" onclick="goBack()">Ga Terug</button>
         </div>
     </div>
+
+    <script>
+        function goBack() {
+            window.history.back();
+        }
+    </script>
 
 
 

@@ -22,10 +22,16 @@
 Cirkelzaagbladen bestaan in soorten en maten, met allerlei verschillende vertandingen, en ook de diameter kan sterk verschillen (normaal is ca. 25 cm, maar industriële cirkelzagen met veel grotere bladen bestaan ook). De maximale zaagdiepte wordt bepaald door de straal van het cirkelzaagblad.
             </p>
 
+            <button class="btnBack2" onclick="goBack()">Ga Terug</button>
 
         </div>
     </div>
 
+    <script>
+        function goBack() {
+            window.history.back();
+        }
+    </script>
 
 
     <?php include "../../../footer.php"?>
