@@ -16,7 +16,7 @@
                 <div class="hero-image">
                         <h2 id="time"></h2>
                         <br>
-                        <h2 id="date"></h2>   
+                        <h4 id="date"></h4>   
                 </div>
                 
         </div>
