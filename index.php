@@ -9,12 +9,15 @@
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans+Mono">
         <title>Homepagina</title>
 </head>
-<body onload=display_ct();>
+<body onload="display_c()";>
         <?php include "header.php"?>
 
         <div class="container contBody pushUp">
-                <h2>Datum en tijd: </h2>
-                <p id="date"></p>   
+                <div class="hero-image">
+                        <h2 id="time"></h2>
+                        <br>
+                        <h2 id="date"></h2>   
+                </div>
                 
         </div>
 
@@ -23,16 +26,23 @@
         <script>
                 function display_c() {
                         var refresh=1000; // Refresh rate in milli seconds
-                        mytime=setTimeout('display_ct()',refresh)
+                        mytime=setTimeout('display_time()',refresh)
+                        mytime=setTimeout('display_date()',refresh)
                 }
 
-                function display_ct() {
+                function display_time() {
                         var x = new Date()
-                        var x1=x.getDate() + 1+ "/" + x.getMonth() + "/" + x.getFullYear(); 
-                        x1 = x1 + " - " +  x.getHours()+ ":" +  x.getMinutes() + ":" +  x.getSeconds();
-                        document.getElementById('date').innerHTML = x1;
+                        var x1=x.getHours() + ":" + x.getMinutes() + ":" + x.getSeconds(); 
+                        document.getElementById('time').innerHTML = x1;
                         display_c();
                 }
+
+                function display_date() {
+                        var x = new Date()
+                        x1 = x.getDate()+ "-" +  x.getMonth() + "-" +  x.getFullYear();
+                        document.getElementById('date').innerHTML = x1;
+                        display_c();
+}
         </script>
 </body>
 </html>
