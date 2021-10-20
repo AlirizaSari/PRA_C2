@@ -5,7 +5,7 @@
             <a href="<?php echo $base_url; ?>/index.php"><img src="<?php echo $base_url; ?>/img/logo.png" alt="CodeCamp logo"></a>
             <div class="splitPicture">
                 <div class="dropdown">
-                    <button class="dropbtn">lyrics</button>
+                    <button class="dropbtn">Lyrics</button>
                     <div class="dropdown-content">
                         <a href="<?php echo $base_url; ?>/pages/lyrics/bohemian-rhapsody.php">Bohemian Rhapsody</a>
                         <a href="<?php echo $base_url; ?>/pages/lyrics/killer-queen.php">Killer Queen</a>
