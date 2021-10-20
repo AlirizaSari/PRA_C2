@@ -19,8 +19,8 @@
                 <br>
                 <p>
                 <ul>
-                    <li><a href="Filmpersonages/darthVader.php">Darth Vader</a></li>
-                    <li><a href="Filmpersonages/lukeSkywalker.php">Luke Skywalker</a></li>
+                    <li><a href="filmpersonages/darth-vader.php">Darth Vader</a></li>
+                    <li><a href="filmpersonages/luke-skywalker.php">Luke Skywalker</a></li>
                 </ul>
                 </p>
 
