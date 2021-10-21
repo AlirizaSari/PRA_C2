@@ -131,7 +131,7 @@ header img {
 
 .splitPicture a {
         color: black;
-        font-family: vardana;
+        font-family: verdana;
         margin: 0px 10px;
         padding: 15px 15px;
 }
@@ -143,7 +143,7 @@ header img {
 
 .home-link {
         color: black;
-        font-family:  vardana, sans-serif;
+        font-family:  verdana, sans-serif;
         margin: 0px 10px;
         padding: 15px 15px;
         border-radius: 20px;
@@ -164,7 +164,7 @@ header img {
 
 .dropbtn {
         color: black;
-        font-family:  vardana, sans-serif;
+        font-family:  verdana, sans-serif;
         margin: 0px 10px;
         padding: 15px 15px;
         border-radius: 20px;
