@@ -7,6 +7,7 @@
         <link rel="stylesheet" href="../../../css/main.css">
         <link rel="shortcut icon" href="../../../img/logo.ico">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans+Mono">
+        <script src="https://kit.fontawesome.com/1793fc5f13.js" crossorigin="anonymous"></script>
         <title>Homepagina</title>
     </head>
     <body>
