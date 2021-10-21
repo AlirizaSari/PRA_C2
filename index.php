@@ -14,12 +14,6 @@
         <?php include "header.php"?>
 
         <div class="container contBody pushUp">
-                <div class="hero-image">
-                        <h2 id="time"></h2>
-                        <br>
-                        <h4 id="date"></h4>   
-                </div>
-
                 <div class="center">
                         <div class="card">
                                 <div class="flex">
@@ -38,6 +32,14 @@
                                 </div>                
                         </div>                
                 </div>
+        
+                <div class="hero-image">
+                        <h2 id="time"></h2>
+                        <br>
+                        <h4 id="date"></h4>   
+                </div>
+
+                
                 
                 
                 
