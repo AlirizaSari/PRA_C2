@@ -13,22 +13,27 @@
         <?php include "../../header.php" ?>
 
         <div class="content padding">
-            <div class="container">
+            <div class="container rogerMoore flex">
+                <div class="left">
+                    <h2>Roger Moore</h2>
+                    <p><br></p>
+                    <p>James Bond films met Roger Moore:</p>
+                    <p><br></p>
+                    <ul>
+                        <li>Live and Let Die</li>
+                        <li>The Man with the Golden Gun</li>
+                        <li>The Spy Who Loved Me</li>
+                        <li>Moonraker</li>
+                        <li>For your eyes only</li>
+                        <li>Octopussy</li>
+                        <li>A View to Kill</li>
 
-                <h2>Roger Moore</h2>
-                <p><br></p>
-                <p>James Bond films met Roger Moore:</p>
-                <p><br></p>
-                <ul>
-                    <li>Live and Let Die</li>
-                    <li>The Man with the Golden Gun</li>
-                    <li>The Spy Who Loved Me</li>
-                    <li>Moonraker</li>
-                    <li>For your eyes only</li>
-                    <li>Octopussy</li>
-                    <li>A View to Kill</li>
-
-                </ul>
+                    </ul>
+                </div>
+                <div class="right">
+                    <img src="<?php echo $base_url; ?>/img/RogerMoore.jpg" alt="Roger Moore afbeelding" title="Roger Moore als James Bond">
+                </div>
+                
             </div>
         </div>
 

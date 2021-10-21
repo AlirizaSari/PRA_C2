@@ -119,6 +119,21 @@
         font-weight: bold;
 }
 
+.rogerMoore li {
+        list-style-type: none;
+}
+
+.flex {
+        display: flex;
+        justify-content: space-between;
+}
+
+.flex img {
+        width: 200px;
+        /* margin-right: 175px; */
+        margin-left: 70px;
+}
+
 
 /* ------------- Hier begint de header ------------- */
 header {

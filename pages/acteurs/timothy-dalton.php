@@ -13,21 +13,25 @@
         <?php include "../../header.php" ?>
 
         <div class="content padding green">
-            <div class="container">
-
-                <h2>Timothy Dalton</h2>
-                <p><br></p>
-                <p>
-                    Dalton werd bekend door zijn eerste film, The Lion in Winter, waarin hij de koning van Frankrijk
-                    speelde. Omdat Pierce Brosnan door contractuele verplichtingen niet in aanmerking kwam als de
-                    opvolger van Roger Moore, werd Dalton gevraagd om de hoofdrol te spelen in de James Bondfilms. Hij
-                    zette zich er persoonlijk voor in om de Bondfilms in de geest van de boeken van Ian Fleming te
-                    maken. Hij las de boeken en zette een Bond neer die sterk overeenkwam met de persoon zoals Fleming
-                    die bedacht had. Hij speelde in de The Living Daylights (1987, met Bondmeisje Maryam d'Abo) en in
-                    Licence to Kill (1989, Bondmeisjes Talisa Soto en Carey Lowell). Daarna stopte Dalton met Bond, ging
-                    hij acteren in de televisieserie Scarlett en had hij een bijrol in de film Hot Fuzz. Hij speelde
-                    verder Julius Caesar in de televisiefilm Cleopatra uit 1999.
-                </p>
+            <div class="container flex">
+                <div class="left">
+                    <h2>Timothy Dalton</h2>
+                    <p><br></p>
+                    <p>
+                        Dalton werd bekend door zijn eerste film, The Lion in Winter, waarin hij de koning van Frankrijk
+                        speelde. Omdat Pierce Brosnan door contractuele verplichtingen niet in aanmerking kwam als de
+                        opvolger van Roger Moore, werd Dalton gevraagd om de hoofdrol te spelen in de James Bondfilms. Hij
+                        zette zich er persoonlijk voor in om de Bondfilms in de geest van de boeken van Ian Fleming te
+                        maken. Hij las de boeken en zette een Bond neer die sterk overeenkwam met de persoon zoals Fleming
+                        die bedacht had. Hij speelde in de The Living Daylights (1987, met Bondmeisje Maryam d'Abo) en in
+                        Licence to Kill (1989, Bondmeisjes Talisa Soto en Carey Lowell). Daarna stopte Dalton met Bond, ging
+                        hij acteren in de televisieserie Scarlett en had hij een bijrol in de film Hot Fuzz. Hij speelde
+                        verder Julius Caesar in de televisiefilm Cleopatra uit 1999.
+                    </p>
+                </div>
+                <div class="right">
+                    <img src="<?php echo $base_url; ?>/img/TimothyDalton.jpg" title="Timothy Dalton" alt="afbeelding van Timothy Dalton">
+                </div>
             </div>
 
 
