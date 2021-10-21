@@ -16,13 +16,13 @@
         <div class="content padding">
             <div class="container">
 
-                <h2>Acteurs</h2>
+                <h2>Acteurs/Actrices</h2>
                 <br>
                 <p>
                 <ul>
-                    <li><a href="roger-moore.php">Roger Moore</a></li>
-                    <li><a href="timothy-dalton.php">Timothy Dalton</a></li>
-                    <li><a href="george-clooney.php">George Clooney</a></li>
+                    <li><a href="acteurs/roger-moore.php">Roger Moore</a></li>
+                    <li><a href="acteurs/timothy-dalton.php">Timothy Dalton</a></li>
+                    <li><a href="acteurs/george-clooney.php">George Clooney</a></li>
                 </ul>
                 </p>
 
