@@ -6,6 +6,7 @@
         --headFoot: #008dd5;
         --hoverColor: lightgray;
         --yellow: yellow;
+        --purple: purple;
 }
 
 * {
@@ -75,6 +76,10 @@
 
 .green {
         background-color: var(--green);
+}
+
+.purple {
+        background-color: var(--purple);
 }
 
 .padding {
