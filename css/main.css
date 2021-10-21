@@ -78,6 +78,11 @@
         background-color: var(--green);
 }
 
+.green-s {
+        background-color: var(--green);
+        color: rgb(143, 29, 29);
+}
+
 .purple {
         background-color: var(--purple);
 }
@@ -164,7 +169,7 @@ header img {
 
 .dropdown button:hover{
         transition-duration: 0.2s;
-        background-color: var(--hoverColor);       
+        background-color: var(--hoverColor);    
 }
 
 .dropbtn {

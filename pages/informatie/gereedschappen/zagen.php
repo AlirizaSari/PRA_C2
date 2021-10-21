@@ -21,7 +21,6 @@
                 <br>
                 <p>
                 <ul>
-                    <li><a href="zagen/kettingzagen.php">Kettingzagen</a></li>
                     <li><a href="zagen/handzagen.php">Handzagen</a></li>
                     <li><a href="zagen/cirkelzagen.php">Cirkelzagen</a></li>
                 </ul>

@@ -12,7 +12,7 @@
     <body>
         <?php include "../../header.php" ?>
 
-        <div class="content orange">
+        <div class="content green-s">
             <div class="container">
 
                 <h1>Uprising - Muse</h1>

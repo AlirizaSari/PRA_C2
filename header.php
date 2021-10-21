@@ -14,7 +14,6 @@
                         <a href="<?php echo $base_url; ?>/pages/lyrics/uprising-mybaby.php">Uprising - MyBaby</a>
                         <a href="<?php echo $base_url; ?>/pages/lyrics/uprising-muse.php">Uprising - Muse</a>
                         <a href="<?php echo $base_url; ?>/pages/lyrics/plugin-baby.php">Plug in Baby - Muse</a>
-                        <a href="<?php echo $base_url; ?>/pages/lyrics/transylvania.php">Transylvania - Iron Maiden</a>
                         <a href="<?php echo $base_url; ?>/pages/lyrics/champions.php">We are the Champions - Queen</a>
                     </div>
                 </div>
@@ -41,12 +40,6 @@
                     <div class="dropdown-content">
                         <a href="<?php echo $base_url; ?>/pages/dranken/frisdrank.php">Frisdranken</a>
                         <a href="<?php echo $base_url; ?>/pages/dranken/warme_dranken.php">Warme dranken</a>
-                    </div>
-                </div>
-                <div class="dropdown">
-                    <button class="dropbtn">Links</button>
-                    <div class="dropdown-content">
-                        <a href="<?php echo $base_url; ?>/pages/links.php">Linkjes</a>
                     </div>
                 </div>
             </div>
