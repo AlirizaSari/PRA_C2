@@ -18,11 +18,9 @@
                     </div>
                 </div>
                 <div class="dropdown">
-                    <button class="dropbtn">Acteurs</button>
+                    <button class="dropbtn">Filmwereld</button>
                     <div class="dropdown-content">
-                        <a href="<?php echo $base_url; ?>/pages/acteurs/roger-moore.php">Roger Moore</a>
-                        <a href="<?php echo $base_url; ?>/pages/acteurs/timothy-dalton.php">Timothy Dalton</a>
-                        <a href="<?php echo $base_url; ?>/pages/acteurs/george-clooney.php">George Clooney</a>
+                        <a href="<?php echo $base_url; ?>/pages/acteurs/acteurs.php">Acteurs</a>
                         <a href="<?php echo $base_url; ?>/pages/acteurs/filmpersonages.php">Filmpersonages</a>
 
                     </div>
