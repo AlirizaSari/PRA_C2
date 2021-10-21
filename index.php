@@ -26,7 +26,7 @@
                                                 <p>5523 AG Den Bosch</p>
                                                 <p>06-123555-456 </strong></p>
                                         </div>
-                                        <div class="right">
+                                        <div class="right img">
                                                 <img src="<?php echo $base_url; ?>/img/logo.png" alt="logo">
                                         </div>
                                 </div>                

@@ -158,6 +158,10 @@
         width: 150px;
 }
 
+.right img {
+        padding-top: 15px;
+}
+
 /* ------------- Hier begint de header ------------- */
 header {
         margin: 0;
