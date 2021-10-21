@@ -295,7 +295,7 @@ footer .container p, footer .container h2 {
 .links a:hover {
         border: 1px solid lightgray;
         color: white;
-        transition: all .3s;
+        transition: all .1s;
 }
 
 
