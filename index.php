@@ -32,14 +32,14 @@
 
                 function display_time() {
                         var x = new Date()
-                        var x1=x.getHours() + ":" + x.getMinutes() + ":" + x.getSeconds(); 
+                        var x1 = ((x.getHours() < 10)?"0":"") + x.getHours() +":"+ ((x.getMinutes() < 10)?"0":"") + x.getMinutes() +":"+ ((x.getSeconds() < 10)?"0":"") + x.getSeconds(); 
                         document.getElementById('time').innerHTML = x1;
                         display_c();
                 }
 
                 function display_date() {
                         var x = new Date()
-                        x1 = x.getDate()+ "-" +  x.getMonth() + "-" +  x.getFullYear();
+                        var x1 = ((x.getDate() < 10)?"0":"") + x.getDate() +"-"+(((x.getMonth()+1) < 10)?"0":"") + (x.getMonth()+1) +"-"+ x.getFullYear();
                         document.getElementById('date').innerHTML = x1;
                         display_c();
 }
