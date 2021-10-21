@@ -20,8 +20,8 @@
                 <div class="dropdown">
                     <button class="dropbtn">Filmwereld</button>
                     <div class="dropdown-content">
-                        <a href="<?php echo $base_url; ?>/pages/acteurs/acteurs.php">Acteurs</a>
-                        <a href="<?php echo $base_url; ?>/pages/acteurs/filmpersonages.php">Filmpersonages</a>
+                        <a href="<?php echo $base_url; ?>/pages/filmwereld/acteurs.php">Acteurs</a>
+                        <a href="<?php echo $base_url; ?>/pages/filmwereld/filmpersonages.php">Filmpersonages</a>
 
                     </div>
                 </div>
