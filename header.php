@@ -1,4 +1,4 @@
-<?php require_once($_SERVER['DOCUMENT_ROOT'] . '/PRA_C2-CodeCamp/backend/config.php'); ?>
+<?php require_once('backend/config.php'); ?>
 <header>
     <div class="container">
         <div class="menu">
