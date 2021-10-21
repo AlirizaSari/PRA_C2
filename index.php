@@ -18,8 +18,30 @@
                         <br>
                         <h4 id="date"></h4>   
                 </div>
+
+                <div class="center">
+                        <div class="card">
+                                <div class="flex">
+
+                                        
+                                        <div class="left">
+                                                <h2>Over ons:</h2>
+                                                <p><strong>CodeCamp</p>
+                                                <p>Koestraat 1</p>
+                                                <p>5523 AG Den Bosch</p>
+                                                <p>06-123555-456 </strong></p>
+                                        </div>
+                                        <div class="right">
+                                                <img src="<?php echo $base_url; ?>/img/logo.png" alt="logo">
+                                        </div>
+                                </div>                
+                        </div>                
+                </div>
+                
+                
                 
         </div>
+
 
         <?php include "footer.php"?>
 
