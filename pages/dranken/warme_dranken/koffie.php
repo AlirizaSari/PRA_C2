@@ -33,7 +33,7 @@
                     (arabica) en C. canephora (robusta).</p>
                 <br>
                 <p>Link naar de pagina over
-                <div class="isVerwijzing"><a href="<?php echo $base_url; ?>/pages/Films/georgeClooney.php">George
+                <div class="isVerwijzing"><a href="<?php echo $base_url; ?>/pages/filmwereld/acteurs/george-clooney.php">George
                         Clooney</a></div>
                 </p>
 
