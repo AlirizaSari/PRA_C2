@@ -61,14 +61,17 @@
 
 .bohemBlue {
         background-color: var(--blue);
+        color: var(--lightgray);
 }
 
 .madnessRed {
         background-color: var(--red);
+        color: var(--lightgray);
 }
 
 .orange {
         background-color: var(--brown);
+        color: var(--lightgray);
 }
 
 .yellow {

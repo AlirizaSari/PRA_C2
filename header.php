@@ -10,11 +10,11 @@
                     <div class="dropdown-content">
                         <a href="<?php echo $base_url; ?>/pages/lyrics/bohemian-rhapsody.php">Bohemian Rhapsody - Queen</a>
                         <a href="<?php echo $base_url; ?>/pages/lyrics/killer-queen.php">Killer Queen - Queen</a>
+                        <a href="<?php echo $base_url; ?>/pages/lyrics/champions.php">We are the Champions - Queen</a>
                         <a href="<?php echo $base_url; ?>/pages/lyrics/madness.php">Madness - Muse</a>
-                        <a href="<?php echo $base_url; ?>/pages/lyrics/uprising-mybaby.php">Uprising - MyBaby</a>
                         <a href="<?php echo $base_url; ?>/pages/lyrics/uprising-muse.php">Uprising - Muse</a>
                         <a href="<?php echo $base_url; ?>/pages/lyrics/plugin-baby.php">Plug in Baby - Muse</a>
-                        <a href="<?php echo $base_url; ?>/pages/lyrics/champions.php">We are the Champions - Queen</a>
+                        <a href="<?php echo $base_url; ?>/pages/lyrics/uprising-mybaby.php">Uprising - MyBaby</a>
                     </div>
                 </div>
                 <div class="dropdown">
