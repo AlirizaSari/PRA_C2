@@ -13,7 +13,7 @@
     <body>
         <?php include "../../header.php" ?>
 
-        <div class="content orange">
+        <div class="content madnessRed">
             <div class="container">
 
                 <h1>Plug in Baby - Muse</h1>

@@ -29,6 +29,11 @@
 
                 </p>
 
+                <div class="bookStart">
+                    <a href="<?php echo $base_url ?>/tasks/create.php">Voeg boek toe</a>
+                </div>
+                
+
 
             </div>
         </div>
