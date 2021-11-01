@@ -8,6 +8,7 @@
                 <p>Locatie: Koestraat 1 Den Bosch</p>
             </ul>
         </div>
+
         <div class="right">
             <h2>Volg Ons</h2>
             <div class="links">
@@ -18,6 +19,10 @@
         </div>
 
 
+    </div>
+
+    <div class="midden-copyright">
+        <p>&copy Copyright 2021 CodeCamp</p>
     </div>
 
 </footer>
