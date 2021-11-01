@@ -38,6 +38,10 @@
                         <br>
                         <h4 id="date"></h4>   
                 </div>
+                
+                <p><br></p>
+
+                <img src="img/Plattegrond omgeving.png" alt="logo">
 
                 
                 
