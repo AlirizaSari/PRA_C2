@@ -22,9 +22,9 @@
                 <br>
                 <p>
                 <ul>
-                    <li><a href="Warme_Dranken/koffie.php">Koffie</a></li>
-                    <li><a href="Warme_Dranken/latte.php">Latte</a></li>
-                    <li><a href="Warme_Dranken/thee.php">Thee</a></li>
+                    <li><a href="warme_dranken/koffie.php">Koffie</a></li>
+                    <li><a href="warme_dranken/latte.php">Latte</a></li>
+                    <li><a href="warme_dranken/thee.php">Thee</a></li>
                 </ul>
                 </p>
 
