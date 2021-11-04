@@ -41,7 +41,7 @@
                 
                 <p><br></p>
 
-                <img src="img/Plattegrond omgeving.png" alt="logo">
+                <img class="plattegrond-img" src="img/Plattegrond omgeving.png" alt="logo">
 
                 
                 
