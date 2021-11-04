@@ -22,9 +22,9 @@
                 <br>
                 <p>
                 <ul>
-                    <li><a href="Frisdrank/cola.php">Cola</a></li>
-                    <li><a href="Frisdrank/7up.php">7Up</a></li>
-                    <li><a href="Frisdrank/sinas.php">Sinas</a></li>
+                    <li><a href="frisdrank/cola.php">Cola</a></li>
+                    <li><a href="frisdrank/7up.php">7Up</a></li>
+                    <li><a href="frisdrank/sinas.php">Sinas</a></li>
                 </ul>
                 </p>
 
