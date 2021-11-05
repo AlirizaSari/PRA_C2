@@ -8,12 +8,10 @@
         --yellow: yellow;
         --purple: purple;
         --lightgray: #e4e4e4;
-<<<<<<< Updated upstream
         --white: white;
-=======
         --black: black;
->>>>>>> Stashed changes
 }
+
 
 * {
         font-family: verdana, Arial, Helvetica, sans-serif;
