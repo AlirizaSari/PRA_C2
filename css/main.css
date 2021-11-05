@@ -8,6 +8,7 @@
         --yellow: yellow;
         --purple: purple;
         --lightgray: #e4e4e4;
+        --white: white;
 }
 
 * {
@@ -89,6 +90,18 @@
 
 .purple {
         background-color: var(--purple);
+}
+
+.whiteText {
+        color: var(--white);
+}
+
+.whiteText a {
+        color: rgb(98, 195, 228);
+}
+
+.whiteText a:hover {
+        text-decoration: underline;
 }
 
 .padding {

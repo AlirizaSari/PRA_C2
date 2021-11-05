@@ -13,7 +13,7 @@
     <body>
         <?php include "../../header.php" ?>
 
-        <div class="content padding orange">
+        <div class="content padding orange whiteText">
             <div class="container">
 
                 <h2>Frisdranken</h2>
