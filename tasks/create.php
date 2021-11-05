@@ -16,23 +16,24 @@
     ?>
 
     <div class="form">
+        <h2>Nieuw boek</h2>
         <form action="../backend/formulierController"></form>
-        <div class="form-input">
-            <label for="titel">Titel: </label>
-            <input type="text" name="boekNaam" id="boekNaam">
-        </div>
-        <div class="form-input">
-            <label for="auteur">Auteur: </label>
-            <input type="text" name="auteur" id="auteur">
-        </div>
-        <div class="form-input">
-            <label for="auteur">Jaartal: </label>
-            <input type="text" name="jaartal" id="jaartal">
-        </div>
-        <div class="form-input">
-            <label for="paginas">Pagina's: </label>
-            <input type="number" name="pagina" id="pagina">
-        </div>
+            <div class="form-input">
+                <input type="text" name="boekNaam" id="boekNaam" placeholder="Naam">
+            </div>
+            <div class="form-input">
+                <input type="text" name="auteur" id="auteur" placeholder="Auteur">
+            </div>
+            <div class="form-input">
+                <input type="text" name="jaartal" id="jaartal" placeholder="Jaartal">
+            </div>
+            <div class="form-input">
+                <input type="number" name="pagina" id="pagina" placeholder="Pagina's">
+            </div>
+
+            <div class="form-group">
+				<input type="submit" value="Opslaan">
+			</div>
     </div>
 
     <?php 

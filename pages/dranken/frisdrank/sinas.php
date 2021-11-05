@@ -24,16 +24,10 @@
                     merken zijn Fanta (van de Coca-Cola Company) en Sisi (Vrumona); Orangina onderscheidt zich doordat
                     er werkelijk vruchtvlees in zit.</p>
 
-                <button class="btnBack2" onclick="goBack()">Ga Terug</button>
 
             </div>
         </div>
 
-        <script>
-            function goBack() {
-                window.history.back()
-            }
-        </script>
 
         <?php include "../../../footer.php" ?>
     </body>

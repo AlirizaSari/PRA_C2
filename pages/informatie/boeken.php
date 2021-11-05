@@ -28,10 +28,29 @@
                     geschrift en boek(rol).
 
                 </p>
+                <p><br></p>
 
+                <h4>Boekenlijst</h4>
                 <div class="bookStart">
                     <a href="<?php echo $base_url ?>/tasks/create.php">Voeg boek toe</a>
                 </div>
+
+                <p><br></p>
+                
+                <table>
+                    <tr>
+                        <th>Titel</th>
+                        <th>Auteur</th>
+                        <th>Jaartal</th>
+                        <th>Pagina's</th>
+                    </tr>
+                    <tr>
+                        <td>Info 1</td>
+                        <td>Info 2</td>
+                        <td>Info 3</td>
+                        <td>Info 4</td>
+                    </tr>
+                </table>            
                 
 
 
