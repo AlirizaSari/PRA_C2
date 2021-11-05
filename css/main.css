@@ -319,7 +319,7 @@ footer .container p, footer .container h2 {
  */
 
 
-
+/* ------------- Hier begint de form ------------- */
 
  .form {
         position: absolute;
@@ -376,3 +376,4 @@ footer .container p, footer .container h2 {
         margin-bottom: 30px;
         outline: none;
 }
+
