@@ -162,6 +162,9 @@
         border-radius: 1cm;
 }
 
+.padding{
+        padding-bottom: 35%;
+}
 
 table {
         border-collapse: collapse;

@@ -10,29 +10,29 @@
         <script src="https://kit.fontawesome.com/1793fc5f13.js" crossorigin="anonymous"></script>
         <title>Homepagina</title>
     </head>
-    <body>
-        <?php include "../../header.php" ?>
+<body>
+    <?php include "../../header.php" ?>
 
-        <div class="content padding purple whiteText">
-            <div class="container">
+    <div class="padding purple whiteText">
+        <div class="container">
 
-                <h2>Warme dranken</h2>
-                <br>
-                <p>Hier een lijst met warme dranken:</p>
-                <br>
-                <p>
-                <ul>
-                    <li><a href="warme_dranken/koffie.php">Koffie</a></li>
-                    <li><a href="warme_dranken/latte.php">Latte</a></li>
-                    <li><a href="warme_dranken/thee.php">Thee</a></li>
-                </ul>
-                </p>
+            <h2>Warme dranken</h2>
+            <br>
+            <p>Hier een lijst met warme dranken:</p>
+            <br>
+            <p>
+            <ul>
+                <li><a href="warme_dranken/koffie.php">Koffie</a></li>
+                <li><a href="warme_dranken/latte.php">Latte</a></li>
+                <li><a href="warme_dranken/thee.php">Thee</a></li>
+            </ul>
+            </p>
 
 
-            </div>
         </div>
+    </div>
 
 
-        <?php include "../../footer.php" ?>
-    </body>
+    <?php include "../../footer.php" ?>
+</body>
 </html>
