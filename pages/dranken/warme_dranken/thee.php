@@ -24,16 +24,10 @@
 
                     De naam thee komt waarschijnlijk uit het Chinese dialect Minnanyu.</p>
 
-                <button class="btnBack2" onclick="goBack()">Ga Terug</button>
 
             </div>
         </div>
 
-        <script>
-            function goBack() {
-                window.history.back()
-            }
-        </script>
 
         <?php include "../../../footer.php" ?>
     </body>

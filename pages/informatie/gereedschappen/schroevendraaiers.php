@@ -29,16 +29,10 @@
                     Soms vervaardigt men het heft nog van een taaie houtsoort. De grootte van schroevendraaier en
                     schroef dienen bij elkaar te 'passen'.</p>
 
-                <button class="btnBack2" onclick="goBack()">Ga Terug</button>
 
             </div>
         </div>
 
-        <script>
-            function goBack() {
-                window.history.back()
-            }
-        </script>
 
 
         <?php include "../../../footer.php" ?>

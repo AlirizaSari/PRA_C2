@@ -24,16 +24,10 @@
                     opgevoed door zijn oom Owen Lars en tante Beru Whitesun Lars.
                 </p>
 
-                <button class="btnBack" onclick="goBack()">Ga Terug</button>
 
             </div>
 
 
-            <script>
-                function goBack() {
-                    window.history.back()
-                }
-            </script>
 
             <?php include "../../../footer.php" ?>
     </body>

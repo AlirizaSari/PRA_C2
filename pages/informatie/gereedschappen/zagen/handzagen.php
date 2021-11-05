@@ -27,16 +27,10 @@
                     hout klemt en vastloopt. Om gemakkelijk te kunnen zagen dienen de tanden niet alleen gezet, maar ook
                     scherp te zijn.</p>
 
-                <button class="btnBack2" onclick="goBack()">Ga Terug</button>
 
             </div>
         </div>
 
-        <script>
-            function goBack() {
-                window.history.back()
-            }
-        </script>
 
 
         <?php include "../../../../footer.php" ?>

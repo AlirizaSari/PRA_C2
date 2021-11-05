@@ -30,7 +30,6 @@
                         bladen bestaan ook). De maximale zaagdiepte wordt bepaald door de straal van het cirkelzaagblad.
                     </p>
 
-                    <button class="btnBack2" onclick="goBack()">Ga Terug</button>
                 </div>
                 <div class="right">
                     <img src="<?php echo $base_url; ?>/img/tools/Cirkelzaag.jpg" alt="">
@@ -38,11 +37,6 @@
             </div>
         </div>
 
-        <script>
-            function goBack() {
-                window.history.back()
-            }
-        </script>
 
 
         <?php include "../../../../footer.php" ?>

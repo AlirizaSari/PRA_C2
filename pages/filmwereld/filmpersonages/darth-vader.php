@@ -29,15 +29,10 @@
                     troepen.</p>
 
 
-                <button class="btnBack" onclick="goBack()">Ga Terug</button>
             </div>
         </div>
 
-        <script>
-            function goBack() {
-                window.history.back()
-            }
-        </script>
+
 
 
         <?php include "../../../footer.php" ?>

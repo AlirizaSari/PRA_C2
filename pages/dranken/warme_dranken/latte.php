@@ -29,16 +29,10 @@
                     Sommige barista's verstaan de kunst om de melk zodanig aan de koffie toe te voegen dat er ware
                     kunstwerkjes ontstaan. Deze techniek wordt latte art genoemd.</p>
 
-                <button class="btnBack2" onclick="goBack()">Ga Terug</button>
 
             </div>
         </div>
 
-        <script>
-            function goBack() {
-                window.history.back()
-            }
-        </script>
 
         <?php include "../../../footer.php" ?>
     </body>
