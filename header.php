@@ -5,7 +5,9 @@
             <a href="<?php echo $base_url; ?>/index.php"><img src="<?php echo $base_url; ?>/img/logo.png" alt="CodeCamp logo"></a>
             <div class="splitPicture">
                 <div class="dropdown">
-                    <a id="HeaderHome" href="<?php echo $base_url; ?>">Home</a>
+                    <div class="breedteHeader">
+                        <a class="home-link" href="<?php echo $base_url; ?>">Home</a>
+                    </div>
                 </div>
                 
                 <div class="dropdown">

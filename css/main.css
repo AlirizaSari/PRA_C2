@@ -1,6 +1,6 @@
 :root {
         --red: #cc0000;
-        --green: #9cd9a8;
+        --green: #317f43;
         --blue: #4682b4;
         --brown: #b97d4b;
         --headFoot: #008dd5;
@@ -99,6 +99,30 @@
         padding-top: 10px;
 }
 
+.btnBack {
+        border-radius: 8px;
+        background-color: white;
+        color: black;
+        border: none;
+        padding: 10px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-weight: bold;
+}
+
+.btnBack2 {
+        border-radius: 8px;
+        background-color: #008dd5;
+        color: white;
+        border: none;
+        padding: 10px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-weight: bold;
+}
+
 .rogerMoore li {
         list-style-type: none;
 }
@@ -188,43 +212,54 @@ header img {
 }
 
 .splitPicture a:hover {
-        transition-duration: 0.2s; 
+        /* transition-duration: 0.01s; */
         background-color: var(--hoverColor);
 }
 
-.breedteHeader{
-        display: flex;
-        justify-content: center;
+.breedteHeader {
+        width: 110px;
+        color: black;
+        text-align: center;
+        margin: 0px 10px;
+        padding: 11px 5px;
+        border-radius: 20px;
+        background-color: white;
+
 }
 
-.dropbtn {
+.breedteHeader:hover {
+        background-color: var(--hoverColor);
+}
+
+.breedteHeader button {
+        /* font-family: verdana, sans-serif;
         color: black;
+        font-family:  verdana, sans-serif;
         margin: 0px 10px;
-        padding: 18px 18px;
+        padding: 15px 15px; */
         border-radius: 20px;
         background-color: white;
         border: none;
-        min-width: 100px;
 
 }
 
-#HeaderHome{
-        color: black;
-        margin: 0px 10px;
-        padding: 15px 15px;
-        border-radius: 20px;
-        background-color: white;
+.home-link {
         border: none;
-        min-width: 100px;
 }
 
-#HeaderHome:hover{
+.home-link a:hover {
         transition-duration: 0.2s;
-        padding: 12px 12px;
+        padding: 15px 15px;
         background-color: var(--hoverColor);
 }
 
-.breedteHeader button:hover {
+.dropdown button:hover{
+        transition-duration: 0.2s;
+        background-color: var(--hoverColor);    
+}
+
+
+.dropbtn button:hover {
         transition-duration: 0.2s;
         padding: 15px 15px;
         background-color: var(--hoverColor);
@@ -317,62 +352,3 @@ footer .container p, footer .container h2 {
         color: blue;
 }
  */
-
-
-
-
- .form {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        width: 400px;
-        padding: 40px;
-        transform: translate(-50%, -50%);
-        background-color: #008dd5;
-        box-sizing: border-box;
-        box-shadow: 0 15px 25px rgba(0,0,0,.6);
-        border-radius: 10px;
-}
-      
-.form h2 {
-        margin: 0 0 30px;
-        padding: 0;
-        color: #fff;
-        text-align: center;
-}
-      
-.form .form-input {
-        position: relative;
-}
-      
-.form .form-input input {
-        width: 100%;
-        padding: 10px 0;
-        font-size: 16px;
-        color: white;
-        margin-bottom: 30px;
-        border: none;
-        border-bottom: 1px solid #fff;
-        outline: none;
-        background: transparent;
-}
-      
-.form .form-input input:focus ~ label,
-.form .form-input input:valid ~ label {
-        top: -20px;
-        left: 0;
-        color: #03e9f4;
-        font-size: 12px;
-}
-
-.form .form-group {
-        position: relative;
-}
-
-.form .form-group input {
-        width: 100%;
-        padding: 10px 0;
-        font-size: 16px;
-        margin-bottom: 30px;
-        outline: none;
-}
