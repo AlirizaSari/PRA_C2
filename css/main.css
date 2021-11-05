@@ -8,7 +8,11 @@
         --yellow: yellow;
         --purple: purple;
         --lightgray: #e4e4e4;
+<<<<<<< Updated upstream
         --white: white;
+=======
+        --black: black;
+>>>>>>> Stashed changes
 }
 
 * {
@@ -393,3 +397,46 @@ footer .container p, footer .container h2 {
         outline: none;
 }
 
+/* ------------- Hier begint  ------------- */
+
+.cola-page {
+        position: absolute;
+        top: 50%;
+        left: 15%;
+        width: 400px;
+        padding: 40px;
+        transform: translate(-50%, -50%);
+        background-color: #d2300f;
+        box-sizing: border-box;
+        box-shadow: 0 15px 25px rgba(0,0,0,.6);
+        border-radius: 10px;
+        color: var(--lightgray)
+}
+
+.up-page {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        width: 750px;
+        padding: 40px;
+        transform: translate(-50%, -50%);
+        background-color: #9cd9a8;
+        box-sizing: border-box;
+        box-shadow: 0 15px 25px rgba(0,0,0,.6);
+        border-radius: 10px;
+        color: var(--black)
+}
+
+.sinas-page {
+        position: absolute;
+        top: 50%;
+        left: 85%;
+        width: 400px;
+        padding: 40px;
+        transform: translate(-50%, -50%);
+        background-color: #f3bf34;
+        box-sizing: border-box;
+        box-shadow: 0 15px 25px rgba(0,0,0,.6);
+        border-radius: 10px;
+        color: var(--black)
+}

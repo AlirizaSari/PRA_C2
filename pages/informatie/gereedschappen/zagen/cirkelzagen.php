@@ -32,7 +32,7 @@
 
                 </div>
                 <div class="right">
-                    <img src="<?php echo $base_url; ?>/img/tools/Cirkelzaag.jpg" alt="">
+                    <img src="<?php echo $base_url; ?>/img/tools/Cirkelzaag.jpg" alt="cirkelzaag">
                 </div>
             </div>
         </div>

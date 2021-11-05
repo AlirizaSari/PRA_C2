@@ -14,20 +14,23 @@
         <?php include "../../../header.php" ?>
 
         <div class="content padding">
-            <div class="container">
+            <div class="container flex">
+                <div class="left">
+                    <h2>Hamers</h2>
+                    <br>
+                    <p>
+                        Een hamer is een klop- of slagwerktuig. Een hamer bestaat uit een steel, het handvat, met aan het
+                        eind de zogenaamde hamerkop.
 
-                <h2>Hamers</h2>
-                <br>
-                <p>
-                    Een hamer is een klop- of slagwerktuig. Een hamer bestaat uit een steel, het handvat, met aan het
-                    eind de zogenaamde hamerkop.
-
-                    De vorm en grootte en het materiaal van de hamerkop en de lengte van de steel hangen sterk af van
-                    het type hamer. Bij hamers met een ijzeren hamerkop staat vaak het aantal grammen in het metaal
-                    geslagen. Voor speciale uitvoeringen, zoals voor percussie-instrumenten, wordt ook de term mallet
-                    (uit het Engels) gebruikt.
-                </p>
-
+                        De vorm en grootte en het materiaal van de hamerkop en de lengte van de steel hangen sterk af van
+                        het type hamer. Bij hamers met een ijzeren hamerkop staat vaak het aantal grammen in het metaal
+                        geslagen. Voor speciale uitvoeringen, zoals voor percussie-instrumenten, wordt ook de term mallet
+                        (uit het Engels) gebruikt.
+                    </p>
+                </div>
+                <div class="right">
+                    <img src="<?php echo $base_url;?>/img/tools/Hamer.png" alt="afbeelding van hamer">
+                </div>
 
             </div>
         </div>
