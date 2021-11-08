@@ -349,7 +349,7 @@ footer .container p, footer .container h2 {
 
  .form {
         position: absolute;
-        top: 50%;
+        top: 60%;
         left: 50%;
         width: 400px;
         padding: 40px;
@@ -358,6 +358,7 @@ footer .container p, footer .container h2 {
         box-sizing: border-box;
         box-shadow: 0 15px 25px rgba(0,0,0,.6);
         border-radius: 10px;
+        border: 1px solid var(--black);
 }
       
 .form h2 {
@@ -403,7 +404,11 @@ footer .container p, footer .container h2 {
         outline: none;
 }
 
-/* ------------- Hier begint  ------------- */
+.pushPage {
+        margin-top: 800px;
+}
+
+/* ------------- Hier begint de drankenpagina ------------- */
 
 .cola-page {
         position: absolute;
