@@ -404,7 +404,7 @@ footer .container p, footer .container h2 {
         width: 400px;
         padding: 40px;
         transform: translate(-50%, -50%);
-        background-color: #d2300f;
+        background-color: #fe001a;
         box-sizing: border-box;
         box-shadow: 0 10px 18px rgba(0,0,0,.6);
         border-radius: 10px;
@@ -415,10 +415,10 @@ footer .container p, footer .container h2 {
         position: absolute;
         top: 50%;
         left: 50%;
-        width: 600px;
+        width: 750px;
         padding: 40px;
         transform: translate(-50%, -50%);
-        background-color: #9cd9a8;
+        background-color: #bbd9b2;
         box-sizing: border-box;
         box-shadow: 0 10px 18px rgba(0,0,0,.6);
         border-radius: 10px;
@@ -432,7 +432,49 @@ footer .container p, footer .container h2 {
         width: 400px;
         padding: 40px;
         transform: translate(-50%, -50%);
-        background-color: #f3bf34;
+        background-color: #ffa420;
+        box-sizing: border-box;
+        box-shadow: 0 10px 18px rgba(0,0,0,.6);
+        border-radius: 10px;
+        color: var(--black)
+}
+
+.koffie-page {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        width: 700px;
+        padding: 40px;
+        transform: translate(-50%, -50%);
+        background-color: #5e4e3f;
+        box-sizing: border-box;
+        box-shadow: 0 10px 18px rgba(0,0,0,.6);
+        border-radius: 10px;
+        color: var(--lightgray)
+}
+
+.latte-page {
+        position: absolute;
+        top: 50%;
+        left: 15%;
+        width: 500px;
+        padding: 40px;
+        transform: translate(-50%, -50%);
+        background-color: #7a624d;
+        box-sizing: border-box;
+        box-shadow: 0 10px 18px rgba(0,0,0,.6);
+        border-radius: 10px;
+        color: var(--lightgray)
+}
+
+.thee-page {
+        position: absolute;
+        top: 50%;
+        left: 85%;
+        width: 400px;
+        padding: 40px;
+        transform: translate(-50%, -50%);
+        background-color: #d5b59c;
         box-sizing: border-box;
         box-shadow: 0 10px 18px rgba(0,0,0,.6);
         border-radius: 10px;
