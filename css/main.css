@@ -164,6 +164,14 @@
         border-radius: 1cm;
 }
 
+table{
+        border-radius: 5px;
+}
+
+tr:nth-child(even){
+        background-color: lightgray;
+}
+
 .padding{
         padding-bottom: 35%;
 }
@@ -238,13 +246,13 @@ header img {
 
 #HeaderHome:hover{
         transition-duration: 0.2s;
-        padding: 12px 12px;
+        padding: 15px 15px;
         background-color: var(--hoverColor);
 }
 
 .breedteHeader button:hover {
         transition-duration: 0.2s;
-        padding: 15px 15px;
+        padding: 18px 18px;
         background-color: var(--hoverColor);
 }
 
