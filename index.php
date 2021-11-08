@@ -21,7 +21,7 @@
                                                 <h2>Over ons:</h2>
                                                 <p><strong>CodeCamp</p>
                                                 <p>Koestraat 1</p>
-                                                <p>5523 AG Den Bosch</p>
+                                                <p>5223 AG Den Bosch</p>
                                                 <p>06-123555-456 </strong></p>
                                         </div>
                                         <div class="right img">
