@@ -35,6 +35,11 @@
                     <a href="<?php echo $base_url ?>/tasks/create.php">Voeg boek toe</a>
                 </div>
 
+                <?php if(isset($_GET['msg']))
+                {
+                    echo "<div class='msg'>" . $_GET['msg'] . "</div>";
+                } ?>
+
                 <?php
                     //Query uitvoeren:
                     require_once '../../backend/conn.php';
@@ -52,6 +57,7 @@
                         <th>Auteur</th>
                         <th>Jaartal</th>
                         <th>Pagina's</th>
+                        <th>Prijs</th>
                     </tr>
                     <?php foreach($boeken as $boek): ?>
                         <tr>
@@ -59,6 +65,8 @@
                             <td><?php echo $boek['auteur']; ?></td>
                             <td><?php echo $boek['jaartal']; ?></td>
                             <td><?php echo $boek['pagina']; ?></td>
+                            <td><?php echo $boek['prijs']; ?></td>
+                            <td><a href="<?php echo $base_url ?>/tasks/edit.php?id=<?php echo $boek['id']; ?>"><i class="fas fa-edit"></i></i></a></td>
                         </tr>
                     <?php endforeach; ?>
                 </table>            
