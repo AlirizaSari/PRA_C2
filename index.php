@@ -17,8 +17,6 @@
                 <div class="center">
                         <div class="card">
                                 <div class="flex">
-
-                                        
                                         <div class="left">
                                                 <h2>Over ons:</h2>
                                                 <p><strong>CodeCamp</p>
@@ -27,7 +25,7 @@
                                                 <p>06-123555-456 </strong></p>
                                         </div>
                                         <div class="right img">
-                                                <img src="<?php echo $base_url; ?>/img/logo.png" alt="logo">
+                                                <img src="<?php echo $base_url; ?>/img/logo2.png" alt="logo">
                                         </div>
                                 </div>                
                         </div>                

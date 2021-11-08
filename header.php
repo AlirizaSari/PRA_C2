@@ -2,7 +2,7 @@
 <header>
     <div class="container">
         <div class="menu">
-            <a href="<?php echo $base_url; ?>/index.php"><img src="<?php echo $base_url; ?>/img/logo.png" alt="CodeCamp logo"></a>
+            <a href="<?php echo $base_url; ?>/index.php"><img src="<?php echo $base_url; ?>/img/logo2.png" alt="CodeCamp logo"></a>
             <div class="splitPicture">
                 <div class="dropdown">
                     <a id="HeaderHome" href="<?php echo $base_url; ?>">Home</a>
