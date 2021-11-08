@@ -18,7 +18,7 @@
     <div class="form">
         <h2>Nieuw boek</h2>
         <form action="../backend/formulierController.php" method="POST">
-            <input type="hidden"name="action"value="create">
+            <input type="hidden" name="action" value="create">
 
             <div class="form-input">
                 <input type="text" name="titel" id="titel" placeholder="Naam">

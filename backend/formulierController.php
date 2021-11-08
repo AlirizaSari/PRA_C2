@@ -1,6 +1,8 @@
 <?php
 $action = $_POST['action'];
 
+require_once 'conn.php';
+
 if ($action == "create")
 {
     $titel = $_POST['titel'];
@@ -9,8 +11,6 @@ if ($action == "create")
     $pagina = $_POST['pagina'];
     $prijs = $_POST['prijs'];
 
-    //1. Verbinding
-    require_once 'conn.php';
 
     //2. Query
     $query = "INSERT INTO boeken (titel, auteur, jaartal, pagina, prijs) 
@@ -40,10 +40,9 @@ if ($action == "update")
     $prijs = $_POST['prijs'];
     $id = $_POST['id'];
 
-    require_once 'conn.php';
     $query = "UPDATE boeken SET titel = :titel, auteur = :auteur, jaartal = :jaartal, pagina = :pagina, prijs = :prijs WHERE id = :id";
     $statement = $conn ->prepare($query);
-    $statement -> Execute([
+    $statement -> execute([
         ":titel" => $titel,
         ":auteur" => $auteur,
         ":jaartal" => $jaartal,
@@ -59,7 +58,6 @@ if ($action == "delete")
 {
     $id = $_POST['id'];
 
-    require_once 'conn.php';
     $query = "DELETE FROM boeken WHERE id = :id";
     $statement = $conn->prepare($query);
     $statement-> Execute([":id" =>$id]);

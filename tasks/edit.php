@@ -29,8 +29,8 @@
         ?>
 
         <form action="../backend/formulierController.php" method="POST">
-            <input type="hidden"name="action"value="update">
-
+            <input type="hidden" name="action" value="update">
+			<input type="hidden" name="id" value="<?php echo $id; ?>">
             <div class="form-input">
                 <input type="text" name="titel" id="titel" value="<?php echo $boek['titel']; ?>">
             </div>
