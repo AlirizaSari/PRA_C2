@@ -17,9 +17,11 @@
 
     <div class="form">
         <h2>Nieuw boek</h2>
-        <form action="../backend/formulierController"></form>
+        <form action="../backend/formulierController.php" method="POST">
+            <input type="hidden"name="action"value="create">
+
             <div class="form-input">
-                <input type="text" name="boekNaam" id="boekNaam" placeholder="Naam">
+                <input type="text" name="titel" id="titel" placeholder="Naam">
             </div>
             <div class="form-input">
                 <input type="text" name="auteur" id="auteur" placeholder="Auteur">
@@ -34,6 +36,7 @@
             <div class="form-group">
 				<input type="submit" value="Opslaan">
 			</div>
+        </form>
     </div>
 
     <?php 

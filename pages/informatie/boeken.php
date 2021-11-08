@@ -35,6 +35,15 @@
                     <a href="<?php echo $base_url ?>/tasks/create.php">Voeg boek toe</a>
                 </div>
 
+                <?php
+                    //Query uitvoeren:
+                    require_once '../../backend/conn.php';
+                    $query = "SELECT * FROM boeken";
+                    $statement = $conn->prepare($query);
+                    $statement->execute();
+                    $boeken = $statement->fetchAll(PDO::FETCH_ASSOC);
+                ?>
+
                 <p><br></p>
                 
                 <table>
@@ -44,12 +53,14 @@
                         <th>Jaartal</th>
                         <th>Pagina's</th>
                     </tr>
-                    <tr>
-                        <td>Info 1</td>
-                        <td>Info 2</td>
-                        <td>Info 3</td>
-                        <td>Info 4</td>
-                    </tr>
+                    <?php foreach($boeken as $boek): ?>
+                        <tr>
+                            <td><?php echo $boek['titel']; ?></td>
+                            <td><?php echo $boek['auteur']; ?></td>
+                            <td><?php echo $boek['jaartal']; ?></td>
+                            <td><?php echo $boek['pagina']; ?></td>
+                        </tr>
+                    <?php endforeach; ?>
                 </table>            
                 
 
