@@ -44,7 +44,7 @@
                 <input type="number" name="pagina" id="pagina" value="<?php echo $boek['pagina']; ?>">
             </div>
             <div class="form-input">
-                <input type="number" name="prijs" id="prijs" value="<?php echo $boek['prijs']; ?>">
+                <input type="number" name="prijs" id="prijs" placeholder="Prijs" value="<?php echo $boek['prijs']; ?>">
             </div>
 
             <div class="form-group">
