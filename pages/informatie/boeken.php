@@ -69,7 +69,7 @@
                             <td><a href="<?php echo $base_url ?>/tasks/edit.php?id=<?php echo $boek['id']; ?>"><i class="fas fa-edit"></i></i></a></td>
                         </tr>
                     <?php endforeach; ?>
-                </table>            
+                </table>
             </div>
         </div>
 
