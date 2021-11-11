@@ -30,7 +30,7 @@ if ($action == "create")
     ]);
 
 
-    header("Location: ../pages/informatie/boeken.php?msg=Boek Opgeslagen");
+    header("Location: ../admin/boeken.php?msg=Boek Opgeslagen");
 }
 
 if ($action == "update")
