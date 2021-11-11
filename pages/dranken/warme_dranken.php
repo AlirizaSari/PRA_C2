@@ -18,7 +18,7 @@
 
                 <h2>Warme dranken</h2>
                 <br>
-                <p><br><br><br><br><br><br><br><br><br><br><br><br><br></p>
+                <p>Hier een lijst met warme dranken:</p>
                 <br>
 
                 <div class="latte-page">
@@ -52,7 +52,7 @@
                         de 15e eeuw uit tropisch Afrika naar Noord-Afrika, het Midden-Oosten en Europa. Sinds de 19e eeuw
                         bevinden de belangrijkste producenten en exporteurs van koffiebonen zich in de tropische gebieden
                         van Zuid- en Centraal-Amerika, Afrika en Azië. De meest geteelde soorten zijn Coffea arabica
-                        (arabica) en C. canephora (robusta).<br><br><br></p>
+                        (arabica) en C. canephora (robusta).</p>
                     <br>
                     <p>Link naar de pagina over
                     <div class="isVerwijzing"><a href="<?php echo $base_url; ?>/pages/entertainment/acteurs/george-clooney.php">George

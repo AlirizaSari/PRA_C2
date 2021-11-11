@@ -22,7 +22,6 @@
 
 
 
-
 .container, .contBody {
         margin: 0 auto;
         width: 960px;
@@ -355,7 +354,7 @@ a.admin {
 
  .form {
         position: absolute;
-        top: 68%;
+        top: 60%;
         left: 50%;
         width: 400px;
         padding: 40px;
@@ -366,7 +365,7 @@ a.admin {
         border-radius: 10px;
         border: 1px solid var(--black);
 }
-      
+
 .form h2 {
         margin: 0 0 30px;
         padding: 0;
@@ -410,10 +409,6 @@ a.admin {
         outline: none;
 }
 
-.pushPage {
-        margin-top: 1100px;
-}
-
 textarea {
         background-color: #008dd5;
         color: white;
@@ -439,9 +434,9 @@ textarea {
 
 .up-page {
         position: absolute;
-        top: 57%;
+        top: 50%;
         left: 50%;
-        width: 555px;
+        width: 750px;
         padding: 40px;
         transform: translate(-50%, -50%);
         background-color: #bbd9b2;
@@ -467,9 +462,9 @@ textarea {
 
 .koffie-page {
         position: absolute;
-        top: 72%;
-        left: 54%;
-        width: 500px;
+        top: 50%;
+        left: 50%;
+        width: 700px;
         padding: 40px;
         transform: translate(-50%, -50%);
         background-color: #5e4e3f;
@@ -481,8 +476,8 @@ textarea {
 
 .latte-page {
         position: absolute;
-        top: 64%;
-        left: 20%;
+        top: 50%;
+        left: 15%;
         width: 500px;
         padding: 40px;
         transform: translate(-50%, -50%);
@@ -495,7 +490,7 @@ textarea {
 
 .thee-page {
         position: absolute;
-        top: 64%;
+        top: 50%;
         left: 85%;
         width: 400px;
         padding: 40px;

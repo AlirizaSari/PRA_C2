@@ -18,6 +18,10 @@
                 <div class="left">
                     <h2>Timothy Dalton</h2>
                     <p><br></p>
+                    <h3>Biografie</h3>
+                    <p>Dalton groeide op in Manchester. Nadat hij zijn school had afgemaakt, ging hij naar het National Youth Theatre. Hij studeerde twee jaar lang aan de Royal Academy of Dramatic Art. In 1966 ging hij naar het Birmingham Repertory Theatre, waar hij hoofdrollen speelde.</p>
+                    <p><br></p>
+                    <h3>Carrière</h3>
                     <p>
                         Dalton werd bekend door zijn eerste film, The Lion in Winter, waarin hij de koning van Frankrijk
                         speelde. Omdat Pierce Brosnan door contractuele verplichtingen niet in aanmerking kwam als de

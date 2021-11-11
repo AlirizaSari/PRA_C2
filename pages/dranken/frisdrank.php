@@ -18,7 +18,7 @@
 
                 <h2>Frisdranken</h2>
                 <br>
-                <p></p>
+                <p><p>Hier een lijst met frisdranken:</p></p>
                 <br>
 
                 <div class="cola-page">
