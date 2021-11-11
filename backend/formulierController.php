@@ -10,11 +10,12 @@ if ($action == "create")
     $jaartal = $_POST['jaartal'];
     $pagina = $_POST['pagina'];
     $prijs = $_POST['prijs'];
+    $beschrijving = $_POST['beschrijving'];
 
 
     //2. Query
-    $query = "INSERT INTO boeken (titel, auteur, jaartal, pagina, prijs) 
-	VALUES (:titel, :auteur, :jaartal, :pagina, :prijs)";
+    $query = "INSERT INTO boeken (titel, auteur, jaartal, pagina, prijs, beschrijving) 
+	VALUES (:titel, :auteur, :jaartal, :pagina, :prijs, :beschrijving)";
     //3. Prepare
     $statement = $conn ->prepare($query);
     //4. Execute
@@ -24,6 +25,7 @@ if ($action == "create")
         ":jaartal" => $jaartal,
         ":pagina" => $pagina,
         ":prijs" => $prijs,
+        ":beschrijving" => $beschrijving,
 
     ]);
 
@@ -38,9 +40,10 @@ if ($action == "update")
     $jaartal = $_POST['jaartal'];
     $pagina = $_POST['pagina'];
     $prijs = $_POST['prijs'];
+    $beschrijving = $_POST['beschrijving'];
     $id = $_POST['id'];
 
-    $query = "UPDATE boeken SET titel = :titel, auteur = :auteur, jaartal = :jaartal, pagina = :pagina, prijs = :prijs WHERE id = :id";
+    $query = "UPDATE boeken SET titel = :titel, auteur = :auteur, jaartal = :jaartal, pagina = :pagina, prijs = :prijs, beschrijving = :beschrijving WHERE id = :id";
     $statement = $conn ->prepare($query);
     $statement -> execute([
         ":titel" => $titel,
@@ -48,10 +51,11 @@ if ($action == "update")
         ":jaartal" => $jaartal,
         ":pagina" => $pagina,
         ":prijs" => $prijs,
+        ":beschrijving" => $beschrijving,
         "id" => $id
     ]);
 
-    header("Location: ../pages/informatie/boeken.php?msg=Boek Bewerkt");
+    header("Location: ../admin/boeken.php?msg=Boek Bewerkt");
 }
 
 if ($action == "delete")
@@ -62,5 +66,5 @@ if ($action == "delete")
     $statement = $conn->prepare($query);
     $statement-> Execute([":id" =>$id]);
 
-    header("Location: ../pages/informatie/boeken.php?msg=Boek Verwijderd");
+    header("Location: ../admin/boeken.php?msg=Boek Verwijderd");
 }

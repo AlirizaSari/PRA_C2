@@ -407,6 +407,13 @@ footer .container p, footer .container h2 {
         margin-top: 800px;
 }
 
+textarea {
+        background-color: #008dd5;
+        color: white;
+        border: none;
+        border-bottom: 1px solid #fff;;
+}
+
 /* ------------- Hier begint de drankenpagina ------------- */
 
 .cola-page {
