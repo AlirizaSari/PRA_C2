@@ -31,7 +31,7 @@
                     <br>
                     <p>Link naar de pagina over
                     <div class="isVerwijzing">
-                        <a href="<?php echo $base_url; ?>/pages/filmwereld/acteurs/roger-moore.php">Roger Moore</a>
+                        <a href="<?php echo $base_url; ?>/pages/entertainment/acteurs/roger-moore.php">Roger Moore</a>
                     </div>
                     </p>
                 </div>

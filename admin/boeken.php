@@ -57,6 +57,7 @@
                     <tr>
                         <th>Titel</th>
                         <th>Auteur</th>
+                        <th>Beschrijving</th>
                         <th>Jaartal</th>
                         <th>Pagina's</th>
                         <th>Prijs</th>
@@ -65,6 +66,7 @@
                         <tr>
                             <td><?php echo $boek['titel']; ?></td>
                             <td><?php echo $boek['auteur']; ?></td>
+                            <td><?php echo $boek['beschrijving']; ?></td>
                             <td><?php echo $boek['jaartal']; ?></td>
                             <td><?php echo $boek['pagina']; ?></td>
                             <td>€<?php echo $boek['prijs']; ?></td>

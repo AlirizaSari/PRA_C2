@@ -27,6 +27,9 @@
                 <input type="text" name="auteur" id="auteur" placeholder="Auteur">
             </div>
             <div class="form-input">
+                <textarea name="beschrijving" id="beschrijving" placeholder="Beschrijving" cols="35" rows="5"></textarea>
+            </div>
+            <div class="form-input">
                 <input type="text" name="jaartal" id="jaartal" placeholder="Jaartal">
             </div>
             <div class="form-input">

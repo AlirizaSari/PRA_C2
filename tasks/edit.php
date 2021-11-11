@@ -8,7 +8,7 @@
     <link rel="shortcut icon" href="../img/logo.ico">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans+Mono">
     <script src="https://kit.fontawesome.com/1793fc5f13.js" crossorigin="anonymous"></script>
-    <title>Create boek</title>
+    <title>Edit boek</title>
 </head>
 <body>
     <?php 
@@ -36,6 +36,9 @@
             </div>
             <div class="form-input">
                 <input type="text" name="auteur" id="auteur" placeholder="Auteur" value="<?php echo $boek['auteur']; ?>">
+            </div>
+            <div class="form-input">
+                <textarea name="beschrijving"<?php echo $boek['beschrijving']; ?> id="beschrijving" placeholder="Beschrijving" cols="35" rows="5"></textarea>
             </div>
             <div class="form-input">
                 <input type="text" name="jaartal" id="jaartal" placeholder="Jaartal" value="<?php echo $boek['jaartal']; ?>">
