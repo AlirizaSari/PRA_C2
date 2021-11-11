@@ -22,7 +22,7 @@
     </div>
 
     <div class="midden-copyright">
-        <p>&copy Copyright 202<a class="admin" href="../admin/boeken.php">1</a> CodeCamp</p>
+        <p>&copy Copyright 202<a class="admin" href="<?php echo $base_url;?>/admin/boeken.php">1</a> CodeCamp</p>
     </div>
 
 </footer>
