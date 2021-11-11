@@ -11,7 +11,7 @@
         <title>Homepagina</title>
     </head>
     <body>
-        <?php include "../../header.php" ?>
+        <?php include "../header.php" ?>
 
         <div class="content padding">
             <div class="container">
@@ -31,11 +31,20 @@
                 <p><br></p>
 
                 <h4>Boekenlijst</h4>
+                <div class="bookStart">
+                    <a href="<?php echo $base_url ?>/tasks/create.php">Voeg boek toe</a>
+                </div>
 
+                <p><br></p>
+
+                <?php if(isset($_GET['msg']))
+                {
+                    echo "<div class='msg'>" . $_GET['msg'] . "</div>";
+                } ?>
 
                 <?php
                     //Query uitvoeren:
-                    require_once '../../backend/conn.php';
+                    require_once '../backend/conn.php';
                     $query = "SELECT * FROM boeken";
                     $statement = $conn->prepare($query);
                     $statement->execute();
@@ -59,6 +68,7 @@
                             <td><?php echo $boek['jaartal']; ?></td>
                             <td><?php echo $boek['pagina']; ?></td>
                             <td>€<?php echo $boek['prijs']; ?></td>
+                            <td><a href="<?php echo $base_url ?>/tasks/edit.php?id=<?php echo $boek['id']; ?>"><i class="fas fa-edit"></i></i></a></td>
                         </tr>
                     <?php endforeach; ?>
                 </table>
@@ -66,6 +76,6 @@
         </div>
 
 
-        <?php include "../../footer.php" ?>
+        <?php include "../footer.php" ?>
     </body>
 </html>

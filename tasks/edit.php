@@ -32,19 +32,19 @@
             <input type="hidden" name="action" value="update">
 			<input type="hidden" name="id" value="<?php echo $id; ?>">
             <div class="form-input">
-                <input type="text" name="titel" id="titel" value="<?php echo $boek['titel']; ?>">
+                <input type="text" name="titel" id="titel" placeholder="Titel" value="<?php echo $boek['titel']; ?>">
             </div>
             <div class="form-input">
-                <input type="text" name="auteur" id="auteur" value="<?php echo $boek['auteur']; ?>">
+                <input type="text" name="auteur" id="auteur" placeholder="Auteur" value="<?php echo $boek['auteur']; ?>">
             </div>
             <div class="form-input">
-                <input type="text" name="jaartal" id="jaartal" value="<?php echo $boek['jaartal']; ?>">
+                <input type="text" name="jaartal" id="jaartal" placeholder="Jaartal" value="<?php echo $boek['jaartal']; ?>">
             </div>
             <div class="form-input">
-                <input type="number" name="pagina" id="pagina" value="<?php echo $boek['pagina']; ?>">
+                <input type="number" name="pagina" id="pagina" placeholder="Pagina's" value="<?php echo $boek['pagina']; ?>">
             </div>
             <div class="form-input">
-                <input type="number" name="prijs" id="prijs" placeholder="Prijs" value="<?php echo $boek['prijs']; ?>">
+                <input type="text" name="prijs" id="prijs" placeholder="Prijs" value="<?php echo $boek['prijs']; ?>">
             </div>
 
             <div class="form-group">

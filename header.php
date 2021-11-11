@@ -25,12 +25,12 @@
                 </div>
                 <div class="dropdown">
                     <div class="breedteHeader">
-                        <button class="dropbtn">Filmwereld</button>
+                        <button class="dropbtn">Entertainment</button>
                     </div>
                     
                     <div class="dropdown-content">
-                        <a href="<?php echo $base_url; ?>/pages/filmwereld/acteurs.php">Acteurs</a>
-                        <a href="<?php echo $base_url; ?>/pages/filmwereld/filmpersonages.php">Filmpersonages</a>
+                        <a href="<?php echo $base_url; ?>/pages/entertainment/acteurs.php">Acteurs</a>
+                        <a href="<?php echo $base_url; ?>/pages/entertainment/filmpersonages.php">Filmpersonages</a>
 
                     </div>
                 </div>

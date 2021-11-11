@@ -21,7 +21,7 @@
             <input type="hidden" name="action" value="create">
 
             <div class="form-input">
-                <input type="text" name="titel" id="titel" placeholder="Naam">
+                <input type="text" name="titel" id="titel" placeholder="Titel">
             </div>
             <div class="form-input">
                 <input type="text" name="auteur" id="auteur" placeholder="Auteur">
@@ -31,6 +31,9 @@
             </div>
             <div class="form-input">
                 <input type="number" name="pagina" id="pagina" placeholder="Pagina's">
+            </div>
+            <div class="form-input">
+                <input type="text" name="prijs" id="prijs" placeholder="Prijs">
             </div>
 
             <div class="form-group">
