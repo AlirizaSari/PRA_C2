@@ -468,7 +468,7 @@ textarea {
 .koffie-page {
         position: absolute;
         top: 72%;
-        left: 50%;
+        left: 54%;
         width: 500px;
         padding: 40px;
         transform: translate(-50%, -50%);
@@ -482,7 +482,7 @@ textarea {
 .latte-page {
         position: absolute;
         top: 64%;
-        left: 15%;
+        left: 20%;
         width: 500px;
         padding: 40px;
         transform: translate(-50%, -50%);
