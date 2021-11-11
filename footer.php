@@ -22,7 +22,7 @@
     </div>
 
     <div class="midden-copyright">
-        <p>&copy Copyright 2021 CodeCamp</p>
+        <p>&copy Copyright 202<a class="admin" href="../admin/boeken.php">1</a> CodeCamp</p>
     </div>
 
 </footer>
