@@ -14,15 +14,21 @@
         <?php include "../../../header.php" ?>
 
         <div class="content padding green">
-            <div class="container">
+            <div class="container flex">
+                <div class="left">
+                    <h2>Luke Skywalker</h2>
+                    <p><br></p>
+                    <p>
+                        Luke Skywalker is een personage uit de Star Wars saga, gespeeld door acteur Mark Hamill. Luke is de
+                        tweelingbroer van prinses Leia. Hun ouders zijn Padmé Amidala en Anakin Skywalker. Skywalker werd
+                        opgevoed door zijn oom Owen Lars en tante Beru Whitesun Lars.
+                    </p>
+                </div>
+                <div class="right">
+                    <img src="<?php echo $base_url;?>img/LukeSkywalker.png" alt="">
+                </div>
 
-                <h2>Luke Skywalker</h2>
-                <p><br></p>
-                <p>
-                    Luke Skywalker is een personage uit de Star Wars saga, gespeeld door acteur Mark Hamill. Luke is de
-                    tweelingbroer van prinses Leia. Hun ouders zijn Padmé Amidala en Anakin Skywalker. Skywalker werd
-                    opgevoed door zijn oom Owen Lars en tante Beru Whitesun Lars.
-                </p>
+
 
 
             </div>
