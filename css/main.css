@@ -436,9 +436,9 @@ textarea {
 
 .up-page {
         position: absolute;
-        top: 50%;
+        top: 57%;
         left: 50%;
-        width: 750px;
+        width: 555px;
         padding: 40px;
         transform: translate(-50%, -50%);
         background-color: #bbd9b2;
