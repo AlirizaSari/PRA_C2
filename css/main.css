@@ -352,7 +352,7 @@ footer .container p, footer .container h2 {
 
  .form {
         position: absolute;
-        top: 50%;
+        top: 68%;
         left: 50%;
         width: 400px;
         padding: 40px;
@@ -408,7 +408,7 @@ footer .container p, footer .container h2 {
 }
 
 .pushPage {
-        margin-top: 800px;
+        margin-top: 1100px;
 }
 
 textarea {

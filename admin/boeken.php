@@ -16,21 +16,11 @@
         <div class="content padding">
             <div class="container">
 
-                <h2>Boeken</h2>
-                <p>
-                    Een boek in traditionele zin is een samengevoegde hoeveelheid papier met tekst, afbeeldingen of
-                    allebei. Daarnaast wordt met de term de betreffende informatie, of een soortgelijke verzameling
-                    informatie, aangeduid ('een boek schrijven', 'een boek downloaden').
-                    Het woord 'boek' is vermoedelijk afkomstig van het Germaanse woord voor beuk, boche. De omslagen van
-                    de eerste boeken werden namelijk gemaakt van een rechthoekig stuk (beuken)hout. Het Griekse woord
-                    biblia (boeken) is het meervoud van biblion dat oorspronkelijk 'papyrusje' betekende, het materiaal
-                    waarop in de oudheid meestal werd geschreven, en later werd gebruikt als aanduiding van papier,
-                    geschrift en boek(rol).
-
-                </p>
+                
+                
                 <p><br></p>
 
-                <h4>Boekenlijst</h4>
+                <h2>Boekenlijst</h2>
                 <div class="bookStart">
                     <a href="<?php echo $base_url ?>/tasks/create.php">Voeg boek toe</a>
                 </div>
