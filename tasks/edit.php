@@ -38,7 +38,7 @@
                 <input type="text" name="auteur" id="auteur" placeholder="Auteur" value="<?php echo $boek['auteur']; ?>">
             </div>
             <div class="form-input">
-                <textarea name="beschrijving"<?php echo $boek['beschrijving']; ?> id="beschrijving" placeholder="Beschrijving" cols="35" rows="5"></textarea>
+                <textarea name="beschrijving" id="beschrijving" placeholder="Beschrijving" cols="35" rows="5"><?php echo $boek['beschrijving']; ?></textarea>
             </div>
             <div class="form-input">
                 <input type="text" name="jaartal" id="jaartal" placeholder="Jaartal" value="<?php echo $boek['jaartal']; ?>">
